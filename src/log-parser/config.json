@@ -1,0 +1,24 @@
+[
+    {
+        "path": "./test/test-logs/fail2ban.log",
+        "patterns": [
+            "%{TIMESTAMP_ISO8601:timestamp} %{WORD:subject}.%{WORD:class} *\\[%{INT:pid}\\]: %{LOGLEVEL:level} *\\[%{NOTSPACE:service}\\] %{WORD:action} %{IP:object}"
+        ],
+        "type": "application"
+    },
+    {
+        "path": "./test/test-logs/syslog.log",
+        "patterns": [
+            "%{SYSLOGTIMESTAMP:timestamp} %{SYSLOGHOST:object} %{PROG:subject}\\[%{INT:pid}\\]: %{GREEDYDATA:action}"
+        ],
+        "type": "system"
+    },
+    {
+        "path": "./test/test-logs/auth.log",
+        "patterns": [
+            "%{SYSLOGTIMESTAMP:timestamp} %{SYSLOGHOST:subject} sshd(?:\\[%{POSINT:pid}\\])?: %{GREEDYDATA:action} from %{IPORHOST:object}"
+        ],
+        "type": "system"
+    }
+]
+
