@@ -25,23 +25,21 @@ export default class log {
         grokJS.loadDefault((err,grokPatterns)=>{
             config.patterns.forEach(pattern => {
                 this.patterns.push(grokPatterns.createPattern(pattern));
-            })
-        })
+            });
+        });
         this.tail = new TailFile(this.path.toString());
         this.tail.pipe(split2()).on('data', (line)=>{
-            this.patterns.forEach((pattern) => {
-                pattern.parse(line, (err,obj)=>{
-                    if(err) return;
-                    if(obj) {
-                        let result = {
-                            type: this.type,
-                            event: obj
-                        }
-                        this.callback(result);
-                    }
-                })
-            })
-        })
+            this.patterns.some((pattern) => {
+                let obj = pattern.parseSync(line);
+                if(!obj) return false;
+                let result = {
+                    type: this.type,
+                    event: obj
+                };
+                this.callback(result);
+                return true;
+            });
+        });
         this.tail.start();
     }
 }
