@@ -1,4 +1,3 @@
-#!/usr/bin/node
 import TailFile from '@logdna/tail-file';
 import split2 from 'split2';
 import grokJS, { GrokPattern } from 'grok-js';
