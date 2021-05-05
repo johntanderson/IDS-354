@@ -1,0 +1,68 @@
+2021-03-27 08:40:19,013 fail2ban.server         [31530]: INFO    --------------------------------------------------
+2021-03-27 08:40:19,013 fail2ban.server         [31530]: INFO    Starting Fail2ban v0.11.1
+2021-03-27 08:40:19,014 fail2ban.observer       [31530]: INFO    Observer start...
+2021-03-27 08:40:19,019 fail2ban.database       [31530]: INFO    Connected to fail2ban persistent database '/var/lib/fail2ban/fail2ban.sqlite3'
+2021-03-27 08:40:19,022 fail2ban.database       [31530]: WARNING New database created. Version '4'
+2021-03-27 08:40:19,022 fail2ban.jail           [31530]: INFO    Creating new jail 'sshd'
+2021-03-27 08:40:19,052 fail2ban.jail           [31530]: INFO    Jail 'sshd' uses pyinotify {}
+2021-03-27 08:40:19,058 fail2ban.jail           [31530]: INFO    Initiated 'pyinotify' backend
+2021-03-27 08:40:19,061 fail2ban.filter         [31530]: INFO      maxLines: 1
+2021-03-27 08:40:19,094 fail2ban.filter         [31530]: INFO      maxRetry: 5
+2021-03-27 08:40:19,094 fail2ban.filter         [31530]: INFO      findtime: 600
+2021-03-27 08:40:19,095 fail2ban.actions        [31530]: INFO      banTime: 600
+2021-03-27 08:40:19,095 fail2ban.filter         [31530]: INFO      encoding: UTF-8
+2021-03-27 08:40:19,095 fail2ban.filter         [31530]: INFO    Added logfile: '/var/log/auth.log' (pos = 0, hash = ad4728cfd26abcd58040c87e5b84dd03629f55d1)
+2021-03-27 08:40:19,105 fail2ban.jail           [31530]: INFO    Jail 'sshd' started
+2021-03-27 09:30:17,534 fail2ban.server         [31530]: INFO    Reload all jails
+2021-03-27 09:30:17,534 fail2ban.server         [31530]: INFO    Reload jail 'sshd'
+2021-03-27 09:30:17,535 fail2ban.filter         [31530]: INFO      maxLines: 1
+2021-03-27 09:30:17,536 fail2ban.filter         [31530]: INFO      maxRetry: 6
+2021-03-27 09:30:17,536 fail2ban.filter         [31530]: INFO      findtime: 600
+2021-03-27 09:30:17,536 fail2ban.actions        [31530]: INFO      banTime: 1800
+2021-03-27 09:30:17,536 fail2ban.filter         [31530]: INFO      encoding: UTF-8
+2021-03-27 09:30:17,536 fail2ban.server         [31530]: INFO    Jail 'sshd' reloaded
+2021-03-27 09:30:17,536 fail2ban.server         [31530]: INFO    Reload finished.
+2021-03-27 09:33:29,639 fail2ban.filter         [31530]: INFO    [sshd] Found 184.58.186.40 - 2021-03-27 09:33:29
+2021-03-27 09:33:31,469 fail2ban.filter         [31530]: INFO    [sshd] Found 184.58.186.40 - 2021-03-27 09:33:31
+2021-03-27 09:33:36,145 fail2ban.filter         [31530]: INFO    [sshd] Found 184.58.186.40 - 2021-03-27 09:33:35
+2021-03-27 09:33:43,256 fail2ban.filter         [31530]: INFO    [sshd] Found 184.58.186.40 - 2021-03-27 09:33:41
+2021-03-27 09:33:47,164 fail2ban.filter         [31530]: INFO    [sshd] Found 184.58.186.40 - 2021-03-27 09:33:47
+2021-03-27 09:33:50,400 fail2ban.filter         [31530]: INFO    [sshd] Found 184.58.186.40 - 2021-03-27 09:33:50
+2021-03-27 09:33:50,637 fail2ban.actions        [31530]: NOTICE  [sshd] Ban 184.58.186.40
+2021-03-27 09:39:29,714 fail2ban.actions        [31530]: NOTICE  [sshd] Flush ticket(s) with iptables-multiport
+2021-03-27 09:39:29,742 fail2ban.actions        [31530]: NOTICE  [sshd] Unban 184.58.186.40
+2021-03-27 09:40:57,202 fail2ban.filter         [31530]: INFO    [sshd] Found 184.58.186.40 - 2021-03-27 09:40:57
+2021-03-27 09:41:00,097 fail2ban.filter         [31530]: INFO    [sshd] Found 184.58.186.40 - 2021-03-27 09:41:00
+2021-03-27 09:41:12,015 fail2ban.filter         [31530]: INFO    [sshd] Found 184.58.186.40 - 2021-03-27 09:41:11
+2021-03-27 09:41:12,515 fail2ban.filter         [31530]: INFO    [sshd] Found 184.58.186.40 - 2021-03-27 09:41:12
+2021-03-27 09:41:13,484 fail2ban.filter         [31530]: INFO    [sshd] Found 184.58.186.40 - 2021-03-27 09:41:13
+2021-03-27 09:41:19,393 fail2ban.filter         [31530]: INFO    [sshd] Found 184.58.186.40 - 2021-03-27 09:41:18
+2021-03-27 09:41:19,567 fail2ban.actions        [31530]: NOTICE  [sshd] Ban 184.58.186.40
+2021-03-27 09:42:17,305 fail2ban.actions        [31530]: NOTICE  [sshd] Flush ticket(s) with iptables-multiport
+2021-03-27 09:42:17,334 fail2ban.actions        [31530]: NOTICE  [sshd] Unban 184.58.186.40
+2021-03-27 16:38:23,212 fail2ban.transmitter    [31530]: WARNING Command ['sshd', 'status'] has failed. Received Exception('Invalid command')
+2021-03-27 09:41:12,515 fail2ban.filter         [31530]: INFO    [sshd] Found 184.58.186.40 - 2021-03-27 09:41:12
+2021-03-27 09:41:12,515 fail2ban.filter         [31530]: INFO    [sshd] Found 184.58.186.40 - 2021-03-27 09:41:12
+2021-03-27 09:41:12,515 fail2ban.filter         [31530]: INFO    [sshd] Found 184.58.186.40 - 2021-03-27 09:41:12
+2021-03-27 09:41:12,515 fail2ban.filter         [31530]: INFO    [sshd] Found 184.58.186.40 - 2021-03-27 09:41:12
+2021-03-27 09:41:12,515 fail2ban.filter         [31530]: INFO    [sshd] Found 184.58.186.40 - 2021-04-20 09:41:12
+2021-04-20 09:41:12,515 fail2ban.filter         [31530]: INFO    [sshd] Found 184.58.186.40 - 2021-04-20 09:41:12
+2021-04-20 09:41:12,515 fail2ban.filter         [31530]: INFO    [sshd] Found 184.58.186.40 - 2021-04-20 09:41:12
+2021-04-20 09:41:12,515 fail2ban.filter         [31530]: INFO    [sshd] Found 184.58.186.40 - 2021-04-20 09:41:12
+2021-03-27 09:33:50,637 fail2ban.actions        [31530]: NOTICE  [sshd] Ban 184.58.186.40
+2021-03-27 09:33:50,637 fail2ban.actions        [31530]: NOTICE  [sshd] Ban 184.58.186.40
+2021-03-27 09:33:50,637 fail2ban.actions        [31530]: NOTICE  [sshd] Ban 184.58.186.40
+2021-03-27 09:33:50,637 fail2ban.actions        [31530]: NOTICE  [sshd] Ban 184.58.186.40
+2021-03-27 09:33:50,637 fail2ban.actions        [31530]: NOTICE  [sshd] Ban 184.58.186.50
+2021-03-27 09:33:50,637 fail2ban.actions        [31530]: NOTICE  [sshd] Ban 184.58.186.50
+2021-03-27 09:33:50,637 fail2ban.actions        [31530]: NOTICE  [sshd] Ban 184.58.186.50
+2021-03-27 09:33:50,637 fail2ban.actions        [31530]: NOTICE  [sshd] Ban 184.58.186.50
+2021-03-27 09:33:50,637 fail2ban.actions        [31530]: NOTICE  [sshd] Ban 184.58.186.50
+2021-03-27 09:33:50,637 fail2ban.actions        [31530]: NOTICE  [sshd] Ban 184.58.186.50
+2021-03-27 09:33:50,637 fail2ban.actions        [31530]: NOTICE  [sshd] Ban 184.58.186.50
+2021-03-27 09:33:50,637 fail2ban.actions        [31530]: NOTICE  [sshd] Ban 184.58.186.60
+2021-03-27 09:33:50,637 fail2ban.actions        [31530]: NOTICE  [sshd] Ban 184.58.186.50
+2021-03-27 09:33:50,637 fail2ban.actions        [31530]: NOTICE  [sshd] Ban 184.58.186.100
+2021-03-27 09:33:50,637 fail2ban.actions        [31530]: NOTICE  [sshd] Ban 184.58.186.100
+2021-03-27 09:33:50,637 fail2ban.actions        [31530]: NOTICE  [sshd] Ban 184.58.186.100
+2021-03-27 09:33:50,637 fail2ban.actions        [31530]: NOTICE  [sshd] Ban 184.58.186.40

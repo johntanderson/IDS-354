@@ -1,0 +1,1162 @@
+Apr 11 00:09:01 Back-End CRON[105500]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 00:09:01 Back-End CRON[105500]: pam_unix(cron:session): session closed for user root
+Apr 11 00:17:01 Back-End CRON[105567]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 00:17:01 Back-End CRON[105567]: pam_unix(cron:session): session closed for user root
+Apr 11 00:39:01 Back-End CRON[105571]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 00:39:01 Back-End CRON[105571]: pam_unix(cron:session): session closed for user root
+Apr 11 01:09:01 Back-End CRON[105653]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 01:09:01 Back-End CRON[105653]: pam_unix(cron:session): session closed for user root
+Apr 11 01:17:01 Back-End CRON[105719]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 01:17:01 Back-End CRON[105719]: pam_unix(cron:session): session closed for user root
+Apr 11 01:39:01 Back-End CRON[105723]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 01:39:01 Back-End CRON[105723]: pam_unix(cron:session): session closed for user root
+Apr 11 02:09:01 Back-End CRON[105793]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 02:09:01 Back-End CRON[105793]: pam_unix(cron:session): session closed for user root
+Apr 11 02:17:01 Back-End CRON[105859]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 02:17:01 Back-End CRON[105859]: pam_unix(cron:session): session closed for user root
+Apr 11 02:39:01 Back-End CRON[105863]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 02:39:01 Back-End CRON[105863]: pam_unix(cron:session): session closed for user root
+Apr 11 03:09:01 Back-End CRON[105928]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 03:09:01 Back-End CRON[105928]: pam_unix(cron:session): session closed for user root
+Apr 11 03:10:01 Back-End CRON[105993]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 03:10:01 Back-End CRON[105993]: pam_unix(cron:session): session closed for user root
+Apr 11 03:17:01 Back-End CRON[106012]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 03:17:01 Back-End CRON[106012]: pam_unix(cron:session): session closed for user root
+Apr 11 03:30:01 Back-End CRON[106016]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 03:30:01 Back-End CRON[106016]: pam_unix(cron:session): session closed for user root
+Apr 11 03:39:01 Back-End CRON[106019]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 03:39:01 Back-End CRON[106019]: pam_unix(cron:session): session closed for user root
+Apr 11 04:09:01 Back-End CRON[106085]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 04:09:01 Back-End CRON[106085]: pam_unix(cron:session): session closed for user root
+Apr 11 04:17:01 Back-End CRON[106154]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 04:17:01 Back-End CRON[106154]: pam_unix(cron:session): session closed for user root
+Apr 11 04:39:01 Back-End CRON[106158]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 04:39:01 Back-End CRON[106158]: pam_unix(cron:session): session closed for user root
+Apr 11 05:09:01 Back-End CRON[106610]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 05:09:01 Back-End CRON[106610]: pam_unix(cron:session): session closed for user root
+Apr 11 05:17:01 Back-End CRON[106676]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 05:17:01 Back-End CRON[106676]: pam_unix(cron:session): session closed for user root
+Apr 11 05:39:01 Back-End CRON[106680]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 05:39:01 Back-End CRON[106680]: pam_unix(cron:session): session closed for user root
+Apr 11 06:09:01 Back-End CRON[106744]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 06:09:01 Back-End CRON[106744]: pam_unix(cron:session): session closed for user root
+Apr 11 06:17:01 Back-End CRON[106807]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 06:17:01 Back-End CRON[106807]: pam_unix(cron:session): session closed for user root
+Apr 11 06:25:01 Back-End CRON[106811]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 06:25:01 Back-End CRON[106811]: pam_unix(cron:session): session closed for user root
+Apr 11 06:39:01 Back-End CRON[106880]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 06:39:01 Back-End CRON[106880]: pam_unix(cron:session): session closed for user root
+Apr 11 06:47:01 Back-End CRON[106946]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 06:47:01 Back-End CRON[106946]: pam_unix(cron:session): session closed for user root
+Apr 11 07:09:01 Back-End CRON[107052]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 07:09:01 Back-End CRON[107052]: pam_unix(cron:session): session closed for user root
+Apr 11 07:17:01 Back-End CRON[107117]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 07:17:02 Back-End CRON[107117]: pam_unix(cron:session): session closed for user root
+Apr 11 07:39:01 Back-End CRON[107189]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 07:39:01 Back-End CRON[107189]: pam_unix(cron:session): session closed for user root
+Apr 11 08:09:01 Back-End CRON[107257]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 08:09:01 Back-End CRON[107257]: pam_unix(cron:session): session closed for user root
+Apr 11 08:17:01 Back-End CRON[107323]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 08:17:01 Back-End CRON[107323]: pam_unix(cron:session): session closed for user root
+Apr 11 08:39:01 Back-End CRON[107354]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 08:39:01 Back-End CRON[107355]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 08:39:01 Back-End CRON[107355]: pam_unix(cron:session): session closed for user root
+Apr 11 08:39:01 Back-End CRON[107354]: pam_unix(cron:session): session closed for user root
+Apr 11 09:09:01 Back-End CRON[107422]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 09:09:01 Back-End CRON[107422]: pam_unix(cron:session): session closed for user root
+Apr 11 09:17:01 Back-End CRON[107488]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 09:17:01 Back-End CRON[107488]: pam_unix(cron:session): session closed for user root
+Apr 11 09:39:01 Back-End CRON[107492]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 09:39:01 Back-End CRON[107492]: pam_unix(cron:session): session closed for user root
+Apr 11 10:09:01 Back-End CRON[107563]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 10:09:01 Back-End CRON[107563]: pam_unix(cron:session): session closed for user root
+Apr 11 10:17:01 Back-End CRON[107629]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 10:17:01 Back-End CRON[107629]: pam_unix(cron:session): session closed for user root
+Apr 11 10:39:01 Back-End CRON[107649]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 10:39:01 Back-End CRON[107649]: pam_unix(cron:session): session closed for user root
+Apr 11 11:09:01 Back-End CRON[107715]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 11:09:01 Back-End CRON[107715]: pam_unix(cron:session): session closed for user root
+Apr 11 11:17:01 Back-End CRON[107802]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 11:17:01 Back-End CRON[107802]: pam_unix(cron:session): session closed for user root
+Apr 11 11:39:01 Back-End CRON[107806]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 11:39:01 Back-End CRON[107806]: pam_unix(cron:session): session closed for user root
+Apr 11 12:00:01 Back-End CRON[107873]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 12:00:01 Back-End CRON[107873]: pam_unix(cron:session): session closed for user root
+Apr 11 12:09:01 Back-End CRON[107876]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 12:09:01 Back-End CRON[107876]: pam_unix(cron:session): session closed for user root
+Apr 11 12:17:01 Back-End CRON[107943]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 12:17:01 Back-End CRON[107943]: pam_unix(cron:session): session closed for user root
+Apr 11 12:39:01 Back-End CRON[107947]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 12:39:01 Back-End CRON[107947]: pam_unix(cron:session): session closed for user root
+Apr 11 13:09:01 Back-End CRON[108013]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 13:09:01 Back-End CRON[108013]: pam_unix(cron:session): session closed for user root
+Apr 11 13:17:01 Back-End CRON[108078]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 13:17:01 Back-End CRON[108078]: pam_unix(cron:session): session closed for user root
+Apr 11 13:39:01 Back-End CRON[108082]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 13:39:01 Back-End CRON[108082]: pam_unix(cron:session): session closed for user root
+Apr 11 14:09:01 Back-End CRON[108149]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 14:09:01 Back-End CRON[108149]: pam_unix(cron:session): session closed for user root
+Apr 11 14:17:01 Back-End CRON[108217]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 14:17:01 Back-End CRON[108217]: pam_unix(cron:session): session closed for user root
+Apr 11 14:39:01 Back-End CRON[108221]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 14:39:01 Back-End CRON[108221]: pam_unix(cron:session): session closed for user root
+Apr 11 15:09:01 Back-End CRON[108289]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 15:09:01 Back-End CRON[108289]: pam_unix(cron:session): session closed for user root
+Apr 11 15:17:01 Back-End CRON[108353]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 15:17:01 Back-End CRON[108353]: pam_unix(cron:session): session closed for user root
+Apr 11 15:39:01 Back-End CRON[108372]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 15:39:01 Back-End CRON[108372]: pam_unix(cron:session): session closed for user root
+Apr 11 16:09:01 Back-End CRON[108451]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 16:09:01 Back-End CRON[108451]: pam_unix(cron:session): session closed for user root
+Apr 11 16:17:01 Back-End CRON[108516]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 16:17:01 Back-End CRON[108516]: pam_unix(cron:session): session closed for user root
+Apr 11 16:39:01 Back-End CRON[108520]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 16:39:01 Back-End CRON[108520]: pam_unix(cron:session): session closed for user root
+Apr 11 17:09:01 Back-End CRON[108591]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 17:09:01 Back-End CRON[108591]: pam_unix(cron:session): session closed for user root
+Apr 11 17:17:01 Back-End CRON[108656]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 17:17:01 Back-End CRON[108656]: pam_unix(cron:session): session closed for user root
+Apr 11 17:30:03 Back-End sshd[108660]: Accepted publickey for jt from 184.58.186.40 port 59966 ssh2: RSA SHA256:qpngs5aZXCnIxUj4OhAud9MWul6sSNLF2JX1WLOa4v0
+Apr 11 17:30:03 Back-End sshd[108660]: pam_unix(sshd:session): session opened for user jt by (uid=0)
+Apr 11 17:30:03 Back-End systemd-logind[712]: New session 1443 of user jt.
+Apr 11 17:30:03 Back-End systemd: pam_unix(systemd-user:session): session opened for user jt by (uid=0)
+Apr 11 17:30:22 Back-End sshd[108778]: Received disconnect from 184.58.186.40 port 59966:11: disconnected by user
+Apr 11 17:30:22 Back-End sshd[108778]: Disconnected from user jt 184.58.186.40 port 59966
+Apr 11 17:30:22 Back-End sshd[108660]: pam_unix(sshd:session): session closed for user jt
+Apr 11 17:30:22 Back-End systemd-logind[712]: Session 1443 logged out. Waiting for processes to exit.
+Apr 11 17:30:22 Back-End systemd-logind[712]: Removed session 1443.
+Apr 11 17:39:01 Back-End CRON[108815]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 17:39:01 Back-End CRON[108815]: pam_unix(cron:session): session closed for user root
+Apr 11 18:09:01 Back-End CRON[108884]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 18:09:01 Back-End CRON[108884]: pam_unix(cron:session): session closed for user root
+Apr 11 18:17:01 Back-End CRON[108948]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 18:17:02 Back-End CRON[108948]: pam_unix(cron:session): session closed for user root
+Apr 11 18:39:01 Back-End CRON[108952]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 18:39:01 Back-End CRON[108952]: pam_unix(cron:session): session closed for user root
+Apr 11 19:06:37 Back-End sshd[109021]: Accepted publickey for jt from 184.58.186.40 port 62814 ssh2: RSA SHA256:qpngs5aZXCnIxUj4OhAud9MWul6sSNLF2JX1WLOa4v0
+Apr 11 19:06:37 Back-End sshd[109021]: pam_unix(sshd:session): session opened for user jt by (uid=0)
+Apr 11 19:06:37 Back-End systemd-logind[712]: New session 1449 of user jt.
+Apr 11 19:06:37 Back-End systemd: pam_unix(systemd-user:session): session opened for user jt by (uid=0)
+Apr 11 19:09:01 Back-End CRON[109145]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 19:09:01 Back-End CRON[109145]: pam_unix(cron:session): session closed for user root
+Apr 11 19:17:01 Back-End CRON[109216]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 19:17:01 Back-End CRON[109216]: pam_unix(cron:session): session closed for user root
+Apr 11 19:39:01 Back-End CRON[109220]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 19:39:01 Back-End CRON[109220]: pam_unix(cron:session): session closed for user root
+Apr 11 19:43:17 Back-End sshd[109134]: Received disconnect from 184.58.186.40 port 62814:11: disconnected by user
+Apr 11 19:43:17 Back-End sshd[109134]: Disconnected from user jt 184.58.186.40 port 62814
+Apr 11 19:43:17 Back-End sshd[109021]: pam_unix(sshd:session): session closed for user jt
+Apr 11 19:43:17 Back-End systemd-logind[712]: Session 1449 logged out. Waiting for processes to exit.
+Apr 11 19:43:17 Back-End systemd-logind[712]: Removed session 1449.
+Apr 11 20:09:01 Back-End CRON[109322]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 20:09:01 Back-End CRON[109322]: pam_unix(cron:session): session closed for user root
+Apr 11 20:17:01 Back-End CRON[109388]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 20:17:01 Back-End CRON[109388]: pam_unix(cron:session): session closed for user root
+Apr 11 20:39:01 Back-End CRON[109392]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 20:39:01 Back-End CRON[109392]: pam_unix(cron:session): session closed for user root
+Apr 11 21:09:01 Back-End CRON[109460]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 21:09:01 Back-End CRON[109460]: pam_unix(cron:session): session closed for user root
+Apr 11 21:17:01 Back-End CRON[109530]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 21:17:01 Back-End CRON[109530]: pam_unix(cron:session): session closed for user root
+Apr 11 21:39:01 Back-End CRON[109534]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 21:39:01 Back-End CRON[109534]: pam_unix(cron:session): session closed for user root
+Apr 11 22:09:01 Back-End CRON[109626]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 22:09:01 Back-End CRON[109626]: pam_unix(cron:session): session closed for user root
+Apr 11 22:17:01 Back-End CRON[109691]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 22:17:01 Back-End CRON[109691]: pam_unix(cron:session): session closed for user root
+Apr 11 22:39:01 Back-End CRON[109695]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 22:39:01 Back-End CRON[109695]: pam_unix(cron:session): session closed for user root
+Apr 11 23:09:01 Back-End CRON[109762]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 23:09:01 Back-End CRON[109762]: pam_unix(cron:session): session closed for user root
+Apr 11 23:17:01 Back-End CRON[109829]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 23:17:01 Back-End CRON[109829]: pam_unix(cron:session): session closed for user root
+Apr 11 23:39:01 Back-End CRON[109833]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 11 23:39:01 Back-End CRON[109833]: pam_unix(cron:session): session closed for user root
+Apr 12 00:00:01 Back-End CRON[109899]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 00:00:01 Back-End CRON[109899]: pam_unix(cron:session): session closed for user root
+Apr 12 00:09:01 Back-End CRON[109965]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 00:09:01 Back-End CRON[109965]: pam_unix(cron:session): session closed for user root
+Apr 12 00:17:01 Back-End CRON[110033]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 00:17:01 Back-End CRON[110033]: pam_unix(cron:session): session closed for user root
+Apr 12 00:39:01 Back-End CRON[110037]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 00:39:01 Back-End CRON[110037]: pam_unix(cron:session): session closed for user root
+Apr 12 01:09:01 Back-End CRON[110103]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 01:09:01 Back-End CRON[110103]: pam_unix(cron:session): session closed for user root
+Apr 12 01:17:01 Back-End CRON[110170]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 01:17:01 Back-End CRON[110170]: pam_unix(cron:session): session closed for user root
+Apr 12 01:39:01 Back-End CRON[110174]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 01:39:01 Back-End CRON[110174]: pam_unix(cron:session): session closed for user root
+Apr 12 02:09:01 Back-End CRON[110240]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 02:09:01 Back-End CRON[110240]: pam_unix(cron:session): session closed for user root
+Apr 12 02:17:01 Back-End CRON[110307]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 02:17:01 Back-End CRON[110307]: pam_unix(cron:session): session closed for user root
+Apr 12 02:39:01 Back-End CRON[110311]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 02:39:01 Back-End CRON[110311]: pam_unix(cron:session): session closed for user root
+Apr 12 03:09:01 Back-End CRON[110380]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 03:09:01 Back-End CRON[110380]: pam_unix(cron:session): session closed for user root
+Apr 12 03:10:01 Back-End CRON[110445]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 03:10:01 Back-End CRON[110445]: pam_unix(cron:session): session closed for user root
+Apr 12 03:17:01 Back-End CRON[110821]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 03:17:01 Back-End CRON[110821]: pam_unix(cron:session): session closed for user root
+Apr 12 03:39:01 Back-End CRON[110889]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 03:39:01 Back-End CRON[110889]: pam_unix(cron:session): session closed for user root
+Apr 12 04:09:01 Back-End CRON[110958]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 04:09:01 Back-End CRON[110958]: pam_unix(cron:session): session closed for user root
+Apr 12 04:17:01 Back-End CRON[111020]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 04:17:01 Back-End CRON[111020]: pam_unix(cron:session): session closed for user root
+Apr 12 04:39:01 Back-End CRON[111025]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 04:39:01 Back-End CRON[111025]: pam_unix(cron:session): session closed for user root
+Apr 12 05:09:01 Back-End CRON[111088]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 05:09:01 Back-End CRON[111088]: pam_unix(cron:session): session closed for user root
+Apr 12 05:17:01 Back-End CRON[111153]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 05:17:01 Back-End CRON[111153]: pam_unix(cron:session): session closed for user root
+Apr 12 05:39:01 Back-End CRON[111175]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 05:39:01 Back-End CRON[111175]: pam_unix(cron:session): session closed for user root
+Apr 12 06:09:01 Back-End CRON[111242]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 06:09:01 Back-End CRON[111242]: pam_unix(cron:session): session closed for user root
+Apr 12 06:17:01 Back-End CRON[111313]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 06:17:01 Back-End CRON[111313]: pam_unix(cron:session): session closed for user root
+Apr 12 06:25:01 Back-End CRON[111319]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 06:25:02 Back-End CRON[111319]: pam_unix(cron:session): session closed for user root
+Apr 12 06:39:01 Back-End CRON[111388]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 06:39:01 Back-End CRON[111388]: pam_unix(cron:session): session closed for user root
+Apr 12 07:09:02 Back-End CRON[111545]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 07:09:02 Back-End CRON[111545]: pam_unix(cron:session): session closed for user root
+Apr 12 07:17:01 Back-End CRON[111678]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 07:17:01 Back-End CRON[111678]: pam_unix(cron:session): session closed for user root
+Apr 12 07:39:01 Back-End CRON[111682]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 07:39:01 Back-End CRON[111682]: pam_unix(cron:session): session closed for user root
+Apr 12 08:09:01 Back-End CRON[111748]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 08:09:01 Back-End CRON[111748]: pam_unix(cron:session): session closed for user root
+Apr 12 08:17:01 Back-End CRON[111814]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 08:17:02 Back-End CRON[111814]: pam_unix(cron:session): session closed for user root
+Apr 12 08:39:01 Back-End CRON[111818]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 08:39:01 Back-End CRON[111819]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 08:39:01 Back-End CRON[111818]: pam_unix(cron:session): session closed for user root
+Apr 12 08:39:01 Back-End CRON[111819]: pam_unix(cron:session): session closed for user root
+Apr 12 09:09:01 Back-End CRON[111911]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 09:09:01 Back-End CRON[111911]: pam_unix(cron:session): session closed for user root
+Apr 12 09:17:01 Back-End CRON[111979]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 09:17:01 Back-End CRON[111979]: pam_unix(cron:session): session closed for user root
+Apr 12 09:39:01 Back-End CRON[111983]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 09:39:01 Back-End CRON[111983]: pam_unix(cron:session): session closed for user root
+Apr 12 10:09:01 Back-End CRON[112052]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 10:09:01 Back-End CRON[112052]: pam_unix(cron:session): session closed for user root
+Apr 12 10:17:01 Back-End CRON[112114]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 10:17:01 Back-End CRON[112114]: pam_unix(cron:session): session closed for user root
+Apr 12 10:39:01 Back-End CRON[112118]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 10:39:01 Back-End CRON[112118]: pam_unix(cron:session): session closed for user root
+Apr 12 11:09:01 Back-End CRON[112183]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 11:09:01 Back-End CRON[112183]: pam_unix(cron:session): session closed for user root
+Apr 12 11:17:01 Back-End CRON[112250]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 11:17:01 Back-End CRON[112250]: pam_unix(cron:session): session closed for user root
+Apr 12 11:39:01 Back-End CRON[112299]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 11:39:01 Back-End CRON[112299]: pam_unix(cron:session): session closed for user root
+Apr 12 12:00:01 Back-End CRON[112368]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 12:00:01 Back-End CRON[112368]: pam_unix(cron:session): session closed for user root
+Apr 12 12:09:01 Back-End CRON[112371]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 12:09:01 Back-End CRON[112371]: pam_unix(cron:session): session closed for user root
+Apr 12 12:17:01 Back-End CRON[112436]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 12:17:01 Back-End CRON[112436]: pam_unix(cron:session): session closed for user root
+Apr 12 12:39:01 Back-End CRON[112440]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 12:39:01 Back-End CRON[112440]: pam_unix(cron:session): session closed for user root
+Apr 12 13:09:01 Back-End CRON[112506]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 13:09:01 Back-End CRON[112506]: pam_unix(cron:session): session closed for user root
+Apr 12 13:17:01 Back-End CRON[112572]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 13:17:01 Back-End CRON[112572]: pam_unix(cron:session): session closed for user root
+Apr 12 13:39:01 Back-End CRON[112596]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 13:39:01 Back-End CRON[112596]: pam_unix(cron:session): session closed for user root
+Apr 12 14:09:01 Back-End CRON[112663]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 14:09:01 Back-End CRON[112663]: pam_unix(cron:session): session closed for user root
+Apr 12 14:17:01 Back-End CRON[112727]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 14:17:01 Back-End CRON[112727]: pam_unix(cron:session): session closed for user root
+Apr 12 14:39:01 Back-End CRON[112731]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 14:39:01 Back-End CRON[112731]: pam_unix(cron:session): session closed for user root
+Apr 12 15:09:01 Back-End CRON[112796]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 15:09:01 Back-End CRON[112796]: pam_unix(cron:session): session closed for user root
+Apr 12 15:17:01 Back-End CRON[112871]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 15:17:01 Back-End CRON[112871]: pam_unix(cron:session): session closed for user root
+Apr 12 15:39:01 Back-End CRON[112889]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 15:39:01 Back-End CRON[112889]: pam_unix(cron:session): session closed for user root
+Apr 12 16:09:01 Back-End CRON[112958]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 16:09:01 Back-End CRON[112958]: pam_unix(cron:session): session closed for user root
+Apr 12 16:17:01 Back-End CRON[113023]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 16:17:01 Back-End CRON[113023]: pam_unix(cron:session): session closed for user root
+Apr 12 16:39:01 Back-End CRON[113027]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 16:39:01 Back-End CRON[113027]: pam_unix(cron:session): session closed for user root
+Apr 12 17:09:01 Back-End CRON[113096]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 17:09:01 Back-End CRON[113096]: pam_unix(cron:session): session closed for user root
+Apr 12 17:17:01 Back-End CRON[113161]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 17:17:01 Back-End CRON[113161]: pam_unix(cron:session): session closed for user root
+Apr 12 17:39:01 Back-End CRON[113165]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 17:39:01 Back-End CRON[113165]: pam_unix(cron:session): session closed for user root
+Apr 12 18:09:01 Back-End CRON[113232]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 18:09:01 Back-End CRON[113232]: pam_unix(cron:session): session closed for user root
+Apr 12 18:17:01 Back-End CRON[113300]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 18:17:01 Back-End CRON[113300]: pam_unix(cron:session): session closed for user root
+Apr 12 18:39:01 Back-End CRON[113304]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 18:39:01 Back-End CRON[113304]: pam_unix(cron:session): session closed for user root
+Apr 12 19:09:01 Back-End CRON[113368]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 19:09:01 Back-End CRON[113368]: pam_unix(cron:session): session closed for user root
+Apr 12 19:17:01 Back-End CRON[113435]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 19:17:01 Back-End CRON[113435]: pam_unix(cron:session): session closed for user root
+Apr 12 19:39:01 Back-End CRON[113439]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 19:39:01 Back-End CRON[113439]: pam_unix(cron:session): session closed for user root
+Apr 12 20:09:01 Back-End CRON[113506]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 20:09:01 Back-End CRON[113506]: pam_unix(cron:session): session closed for user root
+Apr 12 20:17:01 Back-End CRON[113573]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 20:17:01 Back-End CRON[113573]: pam_unix(cron:session): session closed for user root
+Apr 12 20:39:01 Back-End CRON[113600]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 20:39:01 Back-End CRON[113600]: pam_unix(cron:session): session closed for user root
+Apr 12 21:09:01 Back-End CRON[113666]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 21:09:01 Back-End CRON[113666]: pam_unix(cron:session): session closed for user root
+Apr 12 21:17:01 Back-End CRON[113733]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 21:17:01 Back-End CRON[113733]: pam_unix(cron:session): session closed for user root
+Apr 12 21:39:01 Back-End CRON[113737]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 21:39:01 Back-End CRON[113737]: pam_unix(cron:session): session closed for user root
+Apr 12 22:09:01 Back-End CRON[113804]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 22:09:01 Back-End CRON[113804]: pam_unix(cron:session): session closed for user root
+Apr 12 22:17:01 Back-End CRON[113871]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 22:17:01 Back-End CRON[113871]: pam_unix(cron:session): session closed for user root
+Apr 12 22:39:01 Back-End CRON[113875]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 22:39:01 Back-End CRON[113875]: pam_unix(cron:session): session closed for user root
+Apr 12 23:09:01 Back-End CRON[113940]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 23:09:01 Back-End CRON[113940]: pam_unix(cron:session): session closed for user root
+Apr 12 23:17:01 Back-End CRON[114008]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 23:17:01 Back-End CRON[114008]: pam_unix(cron:session): session closed for user root
+Apr 12 23:39:01 Back-End CRON[114012]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 12 23:39:01 Back-End CRON[114012]: pam_unix(cron:session): session closed for user root
+Apr 13 00:00:01 Back-End CRON[114079]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 00:00:01 Back-End CRON[114079]: pam_unix(cron:session): session closed for user root
+Apr 13 00:09:02 Back-End CRON[114149]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 00:09:02 Back-End CRON[114149]: pam_unix(cron:session): session closed for user root
+Apr 13 00:17:01 Back-End CRON[114216]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 00:17:01 Back-End CRON[114216]: pam_unix(cron:session): session closed for user root
+Apr 13 00:17:51 Back-End sshd[114219]: Accepted publickey for jt from 35.183.175.95 port 55473 ssh2: RSA SHA256:qpngs5aZXCnIxUj4OhAud9MWul6sSNLF2JX1WLOa4v0
+Apr 13 00:17:51 Back-End sshd[114219]: pam_unix(sshd:session): session opened for user jt by (uid=0)
+Apr 13 00:17:51 Back-End systemd-logind[712]: New session 1546 of user jt.
+Apr 13 00:17:51 Back-End systemd: pam_unix(systemd-user:session): session opened for user jt by (uid=0)
+Apr 13 00:17:57 Back-End sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Apr 13 00:18:05 Back-End sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Apr 13 00:18:05 Back-End sudo:       jt : TTY=pts/0 ; PWD=/home/jt ; USER=root ; COMMAND=/usr/bin/su
+Apr 13 00:18:05 Back-End sudo: pam_unix(sudo:session): session opened for user root by jt(uid=0)
+Apr 13 00:18:05 Back-End su: (to root) jt on pts/0
+Apr 13 00:18:05 Back-End su: pam_unix(su:session): session opened for user root by jt(uid=0)
+Apr 13 00:18:30 Back-End sshd[114365]: Accepted publickey for jt from 184.58.186.40 port 55494 ssh2: RSA SHA256:qpngs5aZXCnIxUj4OhAud9MWul6sSNLF2JX1WLOa4v0
+Apr 13 00:18:30 Back-End sshd[114365]: pam_unix(sshd:session): session opened for user jt by (uid=0)
+Apr 13 00:18:30 Back-End systemd-logind[712]: New session 1548 of user jt.
+Apr 13 00:19:41 Back-End sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Apr 13 00:19:49 Back-End sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Apr 13 00:19:49 Back-End sudo:       jt : TTY=pts/1 ; PWD=/home/jt ; USER=root ; COMMAND=/usr/bin/kill 114219
+Apr 13 00:19:49 Back-End sudo: pam_unix(sudo:session): session opened for user root by jt(uid=0)
+Apr 13 00:19:49 Back-End sudo: pam_unix(sudo:session): session closed for user root
+Apr 13 00:19:49 Back-End sshd[114219]: pam_unix(sshd:session): session closed for user jt
+Apr 13 00:19:49 Back-End su: pam_unix(su:session): session closed for user root
+Apr 13 00:19:49 Back-End sudo: pam_unix(sudo:session): session closed for user root
+Apr 13 00:19:49 Back-End systemd-logind[712]: Session 1546 logged out. Waiting for processes to exit.
+Apr 13 00:19:49 Back-End systemd-logind[712]: Removed session 1546.
+Apr 13 00:20:52 Back-End sudo:       jt : TTY=pts/1 ; PWD=/home/jt ; USER=root ; COMMAND=/usr/bin/pkill -KILL -u jt
+Apr 13 00:20:52 Back-End sudo: pam_unix(sudo:session): session opened for user root by jt(uid=0)
+Apr 13 00:20:52 Back-End sshd[114365]: pam_unix(sshd:session): session closed for user jt
+Apr 13 00:20:52 Back-End sudo: pam_unix(sudo:session): session closed for user root
+Apr 13 00:20:52 Back-End systemd-logind[712]: Session 1548 logged out. Waiting for processes to exit.
+Apr 13 00:20:52 Back-End systemd-logind[712]: Removed session 1548.
+Apr 13 00:20:57 Back-End sshd[114491]: Accepted publickey for jt from 184.58.186.40 port 55576 ssh2: RSA SHA256:qpngs5aZXCnIxUj4OhAud9MWul6sSNLF2JX1WLOa4v0
+Apr 13 00:20:57 Back-End sshd[114491]: pam_unix(sshd:session): session opened for user jt by (uid=0)
+Apr 13 00:20:57 Back-End systemd-logind[712]: New session 1549 of user jt.
+Apr 13 00:20:57 Back-End systemd: pam_unix(systemd-user:session): session opened for user jt by (uid=0)
+Apr 13 00:21:05 Back-End sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Apr 13 00:21:11 Back-End sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Apr 13 00:21:11 Back-End sudo:       jt : TTY=pts/0 ; PWD=/home/jt ; USER=root ; COMMAND=/usr/bin/su
+Apr 13 00:21:11 Back-End sudo: pam_unix(sudo:session): session opened for user root by jt(uid=0)
+Apr 13 00:21:11 Back-End su: (to root) jt on pts/0
+Apr 13 00:21:11 Back-End su: pam_unix(su:session): session opened for user root by jt(uid=0)
+Apr 13 00:22:04 Back-End su: pam_unix(su:session): session closed for user root
+Apr 13 00:22:04 Back-End sudo: pam_unix(sudo:session): session closed for user root
+Apr 13 00:22:06 Back-End sshd[114581]: Received disconnect from 184.58.186.40 port 55576:11: disconnected by user
+Apr 13 00:22:06 Back-End sshd[114581]: Disconnected from user jt 184.58.186.40 port 55576
+Apr 13 00:22:06 Back-End sshd[114491]: pam_unix(sshd:session): session closed for user jt
+Apr 13 00:22:06 Back-End systemd-logind[712]: Session 1549 logged out. Waiting for processes to exit.
+Apr 13 00:22:06 Back-End systemd-logind[712]: Removed session 1549.
+Apr 13 00:39:01 Back-End CRON[114661]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 00:39:01 Back-End CRON[114661]: pam_unix(cron:session): session closed for user root
+Apr 13 01:09:01 Back-End CRON[114734]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 01:09:01 Back-End CRON[114734]: pam_unix(cron:session): session closed for user root
+Apr 13 01:17:01 Back-End CRON[114798]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 01:17:01 Back-End CRON[114798]: pam_unix(cron:session): session closed for user root
+Apr 13 01:39:01 Back-End CRON[114852]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 01:39:01 Back-End CRON[114852]: pam_unix(cron:session): session closed for user root
+Apr 13 02:09:01 Back-End CRON[115321]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 02:09:01 Back-End CRON[115321]: pam_unix(cron:session): session closed for user root
+Apr 13 02:17:01 Back-End CRON[115405]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 02:17:01 Back-End CRON[115405]: pam_unix(cron:session): session closed for user root
+Apr 13 02:39:01 Back-End CRON[115409]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 02:39:01 Back-End CRON[115409]: pam_unix(cron:session): session closed for user root
+Apr 13 03:09:01 Back-End CRON[115474]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 03:09:01 Back-End CRON[115474]: pam_unix(cron:session): session closed for user root
+Apr 13 03:10:01 Back-End CRON[115537]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 03:10:01 Back-End CRON[115537]: pam_unix(cron:session): session closed for user root
+Apr 13 03:17:01 Back-End CRON[115540]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 03:17:01 Back-End CRON[115540]: pam_unix(cron:session): session closed for user root
+Apr 13 03:39:01 Back-End CRON[115563]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 03:39:01 Back-End CRON[115563]: pam_unix(cron:session): session closed for user root
+Apr 13 04:09:01 Back-End CRON[115632]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 04:09:01 Back-End CRON[115632]: pam_unix(cron:session): session closed for user root
+Apr 13 04:17:01 Back-End CRON[115698]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 04:17:01 Back-End CRON[115698]: pam_unix(cron:session): session closed for user root
+Apr 13 04:39:01 Back-End CRON[115702]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 04:39:01 Back-End CRON[115702]: pam_unix(cron:session): session closed for user root
+Apr 13 05:09:01 Back-End CRON[115768]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 05:09:01 Back-End CRON[115768]: pam_unix(cron:session): session closed for user root
+Apr 13 05:17:01 Back-End CRON[115832]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 05:17:01 Back-End CRON[115832]: pam_unix(cron:session): session closed for user root
+Apr 13 05:39:01 Back-End CRON[115836]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 05:39:01 Back-End CRON[115836]: pam_unix(cron:session): session closed for user root
+Apr 13 06:09:01 Back-End CRON[115994]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 06:09:01 Back-End CRON[115994]: pam_unix(cron:session): session closed for user root
+Apr 13 06:17:01 Back-End CRON[116061]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 06:17:01 Back-End CRON[116061]: pam_unix(cron:session): session closed for user root
+Apr 13 06:25:01 Back-End CRON[116065]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 06:25:02 Back-End CRON[116065]: pam_unix(cron:session): session closed for user root
+Apr 13 06:39:01 Back-End CRON[116134]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 06:39:01 Back-End CRON[116134]: pam_unix(cron:session): session closed for user root
+Apr 13 07:09:01 Back-End CRON[116209]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 07:09:01 Back-End CRON[116209]: pam_unix(cron:session): session closed for user root
+Apr 13 07:17:01 Back-End CRON[116274]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 07:17:01 Back-End CRON[116274]: pam_unix(cron:session): session closed for user root
+Apr 13 07:39:01 Back-End CRON[116278]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 07:39:01 Back-End CRON[116278]: pam_unix(cron:session): session closed for user root
+Apr 13 08:09:01 Back-End CRON[116346]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 08:09:01 Back-End CRON[116346]: pam_unix(cron:session): session closed for user root
+Apr 13 08:17:01 Back-End CRON[116409]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 08:17:01 Back-End CRON[116409]: pam_unix(cron:session): session closed for user root
+Apr 13 08:39:01 Back-End CRON[116441]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 08:39:01 Back-End CRON[116440]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 08:39:01 Back-End CRON[116441]: pam_unix(cron:session): session closed for user root
+Apr 13 08:39:01 Back-End CRON[116440]: pam_unix(cron:session): session closed for user root
+Apr 13 09:09:01 Back-End CRON[116510]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 09:09:01 Back-End CRON[116510]: pam_unix(cron:session): session closed for user root
+Apr 13 09:17:01 Back-End CRON[116579]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 09:17:01 Back-End CRON[116579]: pam_unix(cron:session): session closed for user root
+Apr 13 09:39:01 Back-End CRON[116583]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 09:39:01 Back-End CRON[116583]: pam_unix(cron:session): session closed for user root
+Apr 13 10:09:01 Back-End CRON[116651]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 10:09:02 Back-End CRON[116651]: pam_unix(cron:session): session closed for user root
+Apr 13 10:17:01 Back-End CRON[116717]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 10:17:01 Back-End CRON[116717]: pam_unix(cron:session): session closed for user root
+Apr 13 10:39:01 Back-End CRON[116738]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 10:39:01 Back-End CRON[116738]: pam_unix(cron:session): session closed for user root
+Apr 13 11:09:01 Back-End CRON[116873]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 11:09:01 Back-End CRON[116873]: pam_unix(cron:session): session closed for user root
+Apr 13 11:17:01 Back-End CRON[116937]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 11:17:01 Back-End CRON[116937]: pam_unix(cron:session): session closed for user root
+Apr 13 11:39:01 Back-End CRON[116941]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 11:39:01 Back-End CRON[116941]: pam_unix(cron:session): session closed for user root
+Apr 13 12:00:02 Back-End CRON[117008]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 12:00:02 Back-End CRON[117008]: pam_unix(cron:session): session closed for user root
+Apr 13 12:09:01 Back-End CRON[117011]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 12:09:01 Back-End CRON[117011]: pam_unix(cron:session): session closed for user root
+Apr 13 12:17:01 Back-End CRON[117077]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 12:17:01 Back-End CRON[117077]: pam_unix(cron:session): session closed for user root
+Apr 13 12:39:01 Back-End CRON[117081]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 12:39:01 Back-End CRON[117081]: pam_unix(cron:session): session closed for user root
+Apr 13 13:09:01 Back-End CRON[117147]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 13:09:01 Back-End CRON[117147]: pam_unix(cron:session): session closed for user root
+Apr 13 13:17:01 Back-End CRON[117211]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 13:17:01 Back-End CRON[117211]: pam_unix(cron:session): session closed for user root
+Apr 13 13:39:01 Back-End CRON[117215]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 13:39:01 Back-End CRON[117215]: pam_unix(cron:session): session closed for user root
+Apr 13 14:09:01 Back-End CRON[117282]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 14:09:01 Back-End CRON[117282]: pam_unix(cron:session): session closed for user root
+Apr 13 14:17:01 Back-End CRON[117350]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 14:17:01 Back-End CRON[117350]: pam_unix(cron:session): session closed for user root
+Apr 13 14:39:01 Back-End CRON[117354]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 14:39:01 Back-End CRON[117354]: pam_unix(cron:session): session closed for user root
+Apr 13 15:09:01 Back-End CRON[117425]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 15:09:01 Back-End CRON[117425]: pam_unix(cron:session): session closed for user root
+Apr 13 15:17:01 Back-End CRON[117492]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 15:17:02 Back-End CRON[117492]: pam_unix(cron:session): session closed for user root
+Apr 13 15:39:01 Back-End CRON[117512]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 15:39:01 Back-End CRON[117512]: pam_unix(cron:session): session closed for user root
+Apr 13 16:09:01 Back-End CRON[117600]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 16:09:01 Back-End CRON[117600]: pam_unix(cron:session): session closed for user root
+Apr 13 16:17:01 Back-End CRON[117669]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 16:17:01 Back-End CRON[117669]: pam_unix(cron:session): session closed for user root
+Apr 13 16:39:01 Back-End CRON[117673]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 16:39:01 Back-End CRON[117673]: pam_unix(cron:session): session closed for user root
+Apr 13 17:09:01 Back-End CRON[117742]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 17:09:01 Back-End CRON[117742]: pam_unix(cron:session): session closed for user root
+Apr 13 17:17:01 Back-End CRON[117811]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 17:17:01 Back-End CRON[117811]: pam_unix(cron:session): session closed for user root
+Apr 13 17:39:01 Back-End CRON[117815]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 17:39:01 Back-End CRON[117815]: pam_unix(cron:session): session closed for user root
+Apr 13 18:09:01 Back-End CRON[117886]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 18:09:01 Back-End CRON[117886]: pam_unix(cron:session): session closed for user root
+Apr 13 18:17:02 Back-End CRON[117952]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 18:17:02 Back-End CRON[117952]: pam_unix(cron:session): session closed for user root
+Apr 13 18:39:01 Back-End CRON[117956]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 18:39:01 Back-End CRON[117956]: pam_unix(cron:session): session closed for user root
+Apr 13 19:09:01 Back-End CRON[118091]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 19:09:01 Back-End CRON[118091]: pam_unix(cron:session): session closed for user root
+Apr 13 19:17:01 Back-End CRON[118154]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 19:17:01 Back-End CRON[118154]: pam_unix(cron:session): session closed for user root
+Apr 13 19:39:01 Back-End CRON[118158]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 19:39:01 Back-End CRON[118158]: pam_unix(cron:session): session closed for user root
+Apr 13 20:09:01 Back-End CRON[118230]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 20:09:01 Back-End CRON[118230]: pam_unix(cron:session): session closed for user root
+Apr 13 20:17:01 Back-End CRON[118300]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 20:17:01 Back-End CRON[118300]: pam_unix(cron:session): session closed for user root
+Apr 13 20:39:01 Back-End CRON[118304]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 20:39:01 Back-End CRON[118304]: pam_unix(cron:session): session closed for user root
+Apr 13 21:09:01 Back-End CRON[118368]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 21:09:01 Back-End CRON[118368]: pam_unix(cron:session): session closed for user root
+Apr 13 21:17:01 Back-End CRON[118433]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 21:17:01 Back-End CRON[118433]: pam_unix(cron:session): session closed for user root
+Apr 13 21:39:01 Back-End CRON[118437]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 21:39:01 Back-End CRON[118437]: pam_unix(cron:session): session closed for user root
+Apr 13 22:09:01 Back-End CRON[118504]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 22:09:01 Back-End CRON[118504]: pam_unix(cron:session): session closed for user root
+Apr 13 22:17:01 Back-End CRON[118579]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 22:17:01 Back-End CRON[118579]: pam_unix(cron:session): session closed for user root
+Apr 13 22:39:01 Back-End CRON[118583]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 22:39:01 Back-End CRON[118583]: pam_unix(cron:session): session closed for user root
+Apr 13 23:09:01 Back-End CRON[118652]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 23:09:01 Back-End CRON[118652]: pam_unix(cron:session): session closed for user root
+Apr 13 23:17:01 Back-End CRON[118717]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 23:17:01 Back-End CRON[118717]: pam_unix(cron:session): session closed for user root
+Apr 13 23:39:01 Back-End CRON[118743]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 13 23:39:01 Back-End CRON[118743]: pam_unix(cron:session): session closed for user root
+Apr 14 00:00:01 Back-End CRON[118812]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 00:00:01 Back-End CRON[118812]: pam_unix(cron:session): session closed for user root
+Apr 14 00:09:02 Back-End CRON[118875]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 00:09:02 Back-End CRON[118875]: pam_unix(cron:session): session closed for user root
+Apr 14 00:17:01 Back-End CRON[118940]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 00:17:01 Back-End CRON[118940]: pam_unix(cron:session): session closed for user root
+Apr 14 00:39:01 Back-End CRON[118944]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 00:39:01 Back-End CRON[118944]: pam_unix(cron:session): session closed for user root
+Apr 14 01:09:01 Back-End CRON[119011]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 01:09:01 Back-End CRON[119011]: pam_unix(cron:session): session closed for user root
+Apr 14 01:17:01 Back-End CRON[119078]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 01:17:01 Back-End CRON[119078]: pam_unix(cron:session): session closed for user root
+Apr 14 01:39:01 Back-End CRON[119098]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 01:39:01 Back-End CRON[119098]: pam_unix(cron:session): session closed for user root
+Apr 14 02:09:01 Back-End CRON[119166]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 02:09:01 Back-End CRON[119166]: pam_unix(cron:session): session closed for user root
+Apr 14 02:17:01 Back-End CRON[119233]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 02:17:01 Back-End CRON[119233]: pam_unix(cron:session): session closed for user root
+Apr 14 02:39:01 Back-End CRON[119237]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 02:39:01 Back-End CRON[119237]: pam_unix(cron:session): session closed for user root
+Apr 14 03:09:01 Back-End CRON[119302]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 03:09:01 Back-End CRON[119302]: pam_unix(cron:session): session closed for user root
+Apr 14 03:10:01 Back-End CRON[119365]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 03:10:01 Back-End CRON[119365]: pam_unix(cron:session): session closed for user root
+Apr 14 03:17:01 Back-End CRON[119368]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 03:17:01 Back-End CRON[119368]: pam_unix(cron:session): session closed for user root
+Apr 14 03:39:01 Back-End CRON[119375]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 03:39:01 Back-End CRON[119375]: pam_unix(cron:session): session closed for user root
+Apr 14 04:09:01 Back-End CRON[119442]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 04:09:01 Back-End CRON[119442]: pam_unix(cron:session): session closed for user root
+Apr 14 04:17:01 Back-End CRON[119508]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 04:17:01 Back-End CRON[119508]: pam_unix(cron:session): session closed for user root
+Apr 14 04:39:01 Back-End CRON[119512]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 04:39:01 Back-End CRON[119512]: pam_unix(cron:session): session closed for user root
+Apr 14 05:09:01 Back-End CRON[119580]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 05:09:01 Back-End CRON[119580]: pam_unix(cron:session): session closed for user root
+Apr 14 05:17:01 Back-End CRON[119650]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 05:17:01 Back-End CRON[119650]: pam_unix(cron:session): session closed for user root
+Apr 14 05:39:01 Back-End CRON[119654]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 05:39:01 Back-End CRON[119654]: pam_unix(cron:session): session closed for user root
+Apr 14 06:09:01 Back-End CRON[119730]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 06:09:01 Back-End CRON[119730]: pam_unix(cron:session): session closed for user root
+Apr 14 06:17:01 Back-End CRON[119795]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 06:17:02 Back-End CRON[119795]: pam_unix(cron:session): session closed for user root
+Apr 14 06:25:01 Back-End CRON[119799]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 06:25:01 Back-End CRON[119799]: pam_unix(cron:session): session closed for user root
+Apr 14 06:39:01 Back-End CRON[119868]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 06:39:01 Back-End CRON[119868]: pam_unix(cron:session): session closed for user root
+Apr 14 07:09:01 Back-End CRON[120073]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 07:09:01 Back-End CRON[120073]: pam_unix(cron:session): session closed for user root
+Apr 14 07:17:01 Back-End CRON[120156]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 07:17:01 Back-End CRON[120156]: pam_unix(cron:session): session closed for user root
+Apr 14 07:39:01 Back-End CRON[120160]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 07:39:01 Back-End CRON[120160]: pam_unix(cron:session): session closed for user root
+Apr 14 08:09:01 Back-End CRON[120228]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 08:09:01 Back-End CRON[120228]: pam_unix(cron:session): session closed for user root
+Apr 14 08:17:01 Back-End CRON[120300]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 08:17:01 Back-End CRON[120300]: pam_unix(cron:session): session closed for user root
+Apr 14 08:39:01 Back-End CRON[120305]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 08:39:01 Back-End CRON[120304]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 08:39:01 Back-End CRON[120304]: pam_unix(cron:session): session closed for user root
+Apr 14 08:39:01 Back-End CRON[120305]: pam_unix(cron:session): session closed for user root
+Apr 14 09:09:01 Back-End CRON[120794]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 09:09:01 Back-End CRON[120794]: pam_unix(cron:session): session closed for user root
+Apr 14 09:17:01 Back-End CRON[120863]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 09:17:01 Back-End CRON[120863]: pam_unix(cron:session): session closed for user root
+Apr 14 09:39:01 Back-End CRON[120867]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 09:39:01 Back-End CRON[120867]: pam_unix(cron:session): session closed for user root
+Apr 14 10:09:01 Back-End CRON[120932]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 10:09:01 Back-End CRON[120932]: pam_unix(cron:session): session closed for user root
+Apr 14 10:17:01 Back-End CRON[120995]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 10:17:01 Back-End CRON[120995]: pam_unix(cron:session): session closed for user root
+Apr 14 10:39:01 Back-End CRON[121000]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 10:39:02 Back-End CRON[121000]: pam_unix(cron:session): session closed for user root
+Apr 14 11:09:01 Back-End CRON[121068]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 11:09:01 Back-End CRON[121068]: pam_unix(cron:session): session closed for user root
+Apr 14 11:17:01 Back-End CRON[121134]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 11:17:01 Back-End CRON[121134]: pam_unix(cron:session): session closed for user root
+Apr 14 11:39:01 Back-End CRON[121138]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 11:39:01 Back-End CRON[121138]: pam_unix(cron:session): session closed for user root
+Apr 14 12:00:01 Back-End CRON[121206]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 12:00:01 Back-End CRON[121206]: pam_unix(cron:session): session closed for user root
+Apr 14 12:09:01 Back-End CRON[121209]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 12:09:01 Back-End CRON[121209]: pam_unix(cron:session): session closed for user root
+Apr 14 12:17:01 Back-End CRON[121274]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 12:17:01 Back-End CRON[121274]: pam_unix(cron:session): session closed for user root
+Apr 14 12:39:01 Back-End CRON[121278]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 12:39:01 Back-End CRON[121278]: pam_unix(cron:session): session closed for user root
+Apr 14 13:09:01 Back-End CRON[121373]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 13:09:01 Back-End CRON[121373]: pam_unix(cron:session): session closed for user root
+Apr 14 13:17:01 Back-End CRON[121439]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 13:17:01 Back-End CRON[121439]: pam_unix(cron:session): session closed for user root
+Apr 14 13:39:01 Back-End CRON[121444]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 13:39:01 Back-End CRON[121444]: pam_unix(cron:session): session closed for user root
+Apr 14 14:09:01 Back-End CRON[121510]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 14:09:02 Back-End CRON[121510]: pam_unix(cron:session): session closed for user root
+Apr 14 14:17:01 Back-End CRON[121577]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 14:17:01 Back-End CRON[121577]: pam_unix(cron:session): session closed for user root
+Apr 14 14:39:01 Back-End CRON[121581]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 14:39:01 Back-End CRON[121581]: pam_unix(cron:session): session closed for user root
+Apr 14 15:09:01 Back-End CRON[121651]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 15:09:01 Back-End CRON[121651]: pam_unix(cron:session): session closed for user root
+Apr 14 15:17:01 Back-End CRON[121714]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 15:17:01 Back-End CRON[121714]: pam_unix(cron:session): session closed for user root
+Apr 14 15:39:01 Back-End CRON[121736]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 15:39:01 Back-End CRON[121736]: pam_unix(cron:session): session closed for user root
+Apr 14 16:09:01 Back-End CRON[121802]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 16:09:01 Back-End CRON[121802]: pam_unix(cron:session): session closed for user root
+Apr 14 16:17:01 Back-End CRON[121866]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 16:17:01 Back-End CRON[121866]: pam_unix(cron:session): session closed for user root
+Apr 14 16:39:01 Back-End CRON[121870]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 16:39:01 Back-End CRON[121870]: pam_unix(cron:session): session closed for user root
+Apr 14 17:09:01 Back-End CRON[121935]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 17:09:01 Back-End CRON[121935]: pam_unix(cron:session): session closed for user root
+Apr 14 17:17:01 Back-End CRON[122003]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 17:17:01 Back-End CRON[122003]: pam_unix(cron:session): session closed for user root
+Apr 14 17:39:01 Back-End CRON[122007]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 17:39:01 Back-End CRON[122007]: pam_unix(cron:session): session closed for user root
+Apr 14 18:09:01 Back-End CRON[122070]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 18:09:01 Back-End CRON[122070]: pam_unix(cron:session): session closed for user root
+Apr 14 18:17:01 Back-End CRON[122139]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 18:17:01 Back-End CRON[122139]: pam_unix(cron:session): session closed for user root
+Apr 14 18:39:01 Back-End CRON[122143]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 18:39:01 Back-End CRON[122143]: pam_unix(cron:session): session closed for user root
+Apr 14 19:09:01 Back-End CRON[122240]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 19:09:01 Back-End CRON[122240]: pam_unix(cron:session): session closed for user root
+Apr 14 19:17:01 Back-End CRON[122305]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 19:17:01 Back-End CRON[122305]: pam_unix(cron:session): session closed for user root
+Apr 14 19:39:01 Back-End CRON[122309]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 19:39:01 Back-End CRON[122309]: pam_unix(cron:session): session closed for user root
+Apr 14 20:09:01 Back-End CRON[122376]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 20:09:01 Back-End CRON[122376]: pam_unix(cron:session): session closed for user root
+Apr 14 20:17:01 Back-End CRON[122437]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 20:17:01 Back-End CRON[122437]: pam_unix(cron:session): session closed for user root
+Apr 14 20:39:01 Back-End CRON[122442]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 20:39:01 Back-End CRON[122442]: pam_unix(cron:session): session closed for user root
+Apr 14 21:09:01 Back-End CRON[122522]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 21:09:01 Back-End CRON[122522]: pam_unix(cron:session): session closed for user root
+Apr 14 21:17:02 Back-End CRON[122590]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 21:17:02 Back-End CRON[122590]: pam_unix(cron:session): session closed for user root
+Apr 14 21:39:01 Back-End CRON[122594]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 21:39:01 Back-End CRON[122594]: pam_unix(cron:session): session closed for user root
+Apr 14 22:09:01 Back-End CRON[122659]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 22:09:01 Back-End CRON[122659]: pam_unix(cron:session): session closed for user root
+Apr 14 22:17:01 Back-End CRON[122729]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 22:17:01 Back-End CRON[122729]: pam_unix(cron:session): session closed for user root
+Apr 14 22:39:01 Back-End CRON[122733]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 22:39:01 Back-End CRON[122733]: pam_unix(cron:session): session closed for user root
+Apr 14 23:09:01 Back-End CRON[122867]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 23:09:01 Back-End CRON[122867]: pam_unix(cron:session): session closed for user root
+Apr 14 23:17:01 Back-End CRON[122930]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 23:17:01 Back-End CRON[122930]: pam_unix(cron:session): session closed for user root
+Apr 14 23:39:01 Back-End CRON[122934]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 14 23:39:01 Back-End CRON[122934]: pam_unix(cron:session): session closed for user root
+Apr 15 00:00:01 Back-End CRON[123016]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 00:00:01 Back-End CRON[123016]: pam_unix(cron:session): session closed for user root
+Apr 15 00:09:01 Back-End CRON[123076]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 00:09:01 Back-End CRON[123076]: pam_unix(cron:session): session closed for user root
+Apr 15 00:17:01 Back-End CRON[123144]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 00:17:01 Back-End CRON[123144]: pam_unix(cron:session): session closed for user root
+Apr 15 00:39:01 Back-End CRON[123148]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 00:39:01 Back-End CRON[123148]: pam_unix(cron:session): session closed for user root
+Apr 15 01:09:01 Back-End CRON[123211]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 01:09:01 Back-End CRON[123211]: pam_unix(cron:session): session closed for user root
+Apr 15 01:17:01 Back-End CRON[123276]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 01:17:01 Back-End CRON[123276]: pam_unix(cron:session): session closed for user root
+Apr 15 01:23:46 Back-End sshd[123280]: Accepted publickey for jt from 184.58.186.40 port 59575 ssh2: RSA SHA256:qpngs5aZXCnIxUj4OhAud9MWul6sSNLF2JX1WLOa4v0
+Apr 15 01:23:46 Back-End sshd[123280]: pam_unix(sshd:session): session opened for user jt by (uid=0)
+Apr 15 01:23:46 Back-End systemd-logind[712]: New session 1708 of user jt.
+Apr 15 01:23:46 Back-End systemd: pam_unix(systemd-user:session): session opened for user jt by (uid=0)
+Apr 15 01:24:18 Back-End sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Apr 15 01:24:31 Back-End sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Apr 15 01:24:31 Back-End sudo:       jt : TTY=pts/0 ; PWD=/home/jt ; USER=root ; COMMAND=/usr/sbin/tcpdump
+Apr 15 01:24:31 Back-End sudo: pam_unix(sudo:session): session opened for user root by jt(uid=0)
+Apr 15 01:24:33 Back-End sudo: pam_unix(sudo:session): session closed for user root
+Apr 15 01:24:50 Back-End sudo:       jt : TTY=pts/0 ; PWD=/home/jt ; USER=root ; COMMAND=/usr/bin/su
+Apr 15 01:24:50 Back-End sudo: pam_unix(sudo:session): session opened for user root by jt(uid=0)
+Apr 15 01:24:50 Back-End su: (to root) jt on pts/0
+Apr 15 01:24:50 Back-End su: pam_unix(su:session): session opened for user root by jt(uid=0)
+Apr 15 01:27:46 Back-End sshd[123457]: Accepted publickey for jt from 184.58.186.40 port 59620 ssh2: RSA SHA256:qpngs5aZXCnIxUj4OhAud9MWul6sSNLF2JX1WLOa4v0
+Apr 15 01:27:46 Back-End sshd[123457]: pam_unix(sshd:session): session opened for user jt by (uid=0)
+Apr 15 01:27:46 Back-End systemd-logind[712]: New session 1710 of user jt.
+Apr 15 01:28:29 Back-End sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Apr 15 01:28:32 Back-End sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Apr 15 01:28:32 Back-End sudo: pam_unix(sudo:auth): authentication failure; logname=jt uid=1000 euid=0 tty=/dev/pts/1 ruser=jt rhost=  user=jt
+Apr 15 01:28:34 Back-End sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Apr 15 01:28:43 Back-End sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Apr 15 01:28:43 Back-End sudo:       jt : TTY=pts/1 ; PWD=/home/jt ; USER=root ; COMMAND=/usr/bin/su
+Apr 15 01:28:43 Back-End sudo: pam_unix(sudo:session): session opened for user root by jt(uid=0)
+Apr 15 01:28:43 Back-End su: (to root) jt on pts/1
+Apr 15 01:28:43 Back-End su: pam_unix(su:session): session opened for user root by jt(uid=0)
+Apr 15 01:28:48 Back-End su: pam_unix(su:session): session closed for user root
+Apr 15 01:28:48 Back-End sudo: pam_unix(sudo:session): session closed for user root
+Apr 15 01:29:03 Back-End polkitd(authority=local): Registered Authentication Agent for unix-process:123572:176519835 (system bus name :1.560 [/usr/bin/pkttyagent --notify-fd 5 --fallback], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale C.UTF-8)
+Apr 15 01:29:19 Back-End polkitd(authority=local): Operator of unix-process:123572:176519835 successfully authenticated as unix-user:jt to gain ONE-SHOT authorization for action org.freedesktop.systemd1.manage-units for system-bus-name::1.561 [systemctl restart apache2] (owned by unix-user:jt)
+Apr 15 01:29:20 Back-End polkitd(authority=local): Unregistered Authentication Agent for unix-process:123572:176519835 (system bus name :1.560, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale C.UTF-8) (disconnected from bus)
+Apr 15 01:29:47 Back-End su: pam_unix(su:session): session closed for user root
+Apr 15 01:29:47 Back-End sudo: pam_unix(sudo:session): session closed for user root
+Apr 15 01:29:52 Back-End sshd[123403]: Received disconnect from 184.58.186.40 port 59575:11: disconnected by user
+Apr 15 01:29:52 Back-End sshd[123403]: Disconnected from user jt 184.58.186.40 port 59575
+Apr 15 01:29:52 Back-End sshd[123280]: pam_unix(sshd:session): session closed for user jt
+Apr 15 01:29:52 Back-End systemd-logind[712]: Session 1708 logged out. Waiting for processes to exit.
+Apr 15 01:29:52 Back-End systemd-logind[712]: Removed session 1708.
+Apr 15 01:29:55 Back-End sshd[123532]: Received disconnect from 184.58.186.40 port 59620:11: disconnected by user
+Apr 15 01:29:55 Back-End sshd[123532]: Disconnected from user jt 184.58.186.40 port 59620
+Apr 15 01:29:55 Back-End sshd[123457]: pam_unix(sshd:session): session closed for user jt
+Apr 15 01:29:55 Back-End systemd-logind[712]: Session 1710 logged out. Waiting for processes to exit.
+Apr 15 01:29:55 Back-End systemd-logind[712]: Removed session 1710.
+Apr 15 01:39:01 Back-End CRON[123646]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 01:39:01 Back-End CRON[123646]: pam_unix(cron:session): session closed for user root
+Apr 15 02:09:01 Back-End CRON[123712]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 02:09:01 Back-End CRON[123712]: pam_unix(cron:session): session closed for user root
+Apr 15 02:17:01 Back-End CRON[123778]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 02:17:01 Back-End CRON[123778]: pam_unix(cron:session): session closed for user root
+Apr 15 02:39:01 Back-End CRON[123782]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 02:39:01 Back-End CRON[123782]: pam_unix(cron:session): session closed for user root
+Apr 15 03:09:01 Back-End CRON[123853]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 03:09:01 Back-End CRON[123853]: pam_unix(cron:session): session closed for user root
+Apr 15 03:10:01 Back-End CRON[123919]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 03:10:01 Back-End CRON[123919]: pam_unix(cron:session): session closed for user root
+Apr 15 03:17:01 Back-End CRON[123923]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 03:17:01 Back-End CRON[123923]: pam_unix(cron:session): session closed for user root
+Apr 15 03:39:01 Back-End CRON[123927]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 03:39:01 Back-End CRON[123927]: pam_unix(cron:session): session closed for user root
+Apr 15 04:09:01 Back-End CRON[123995]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 04:09:01 Back-End CRON[123995]: pam_unix(cron:session): session closed for user root
+Apr 15 04:17:01 Back-End CRON[124059]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 04:17:01 Back-End CRON[124059]: pam_unix(cron:session): session closed for user root
+Apr 15 04:39:01 Back-End CRON[124063]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 04:39:01 Back-End CRON[124063]: pam_unix(cron:session): session closed for user root
+Apr 15 05:09:01 Back-End CRON[124125]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 05:09:01 Back-End CRON[124125]: pam_unix(cron:session): session closed for user root
+Apr 15 05:17:01 Back-End CRON[124191]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 05:17:01 Back-End CRON[124191]: pam_unix(cron:session): session closed for user root
+Apr 15 05:39:01 Back-End CRON[124196]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 05:39:01 Back-End CRON[124196]: pam_unix(cron:session): session closed for user root
+Apr 15 06:09:01 Back-End CRON[124261]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 06:09:01 Back-End CRON[124261]: pam_unix(cron:session): session closed for user root
+Apr 15 06:17:01 Back-End CRON[130125]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 06:17:01 Back-End CRON[130125]: pam_unix(cron:session): session closed for user root
+Apr 15 06:25:01 Back-End CRON[130148]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 06:25:02 Back-End CRON[130148]: pam_unix(cron:session): session closed for user root
+Apr 15 06:39:01 Back-End CRON[130217]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 06:39:01 Back-End CRON[130217]: pam_unix(cron:session): session closed for user root
+Apr 15 07:09:01 Back-End CRON[130284]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 07:09:01 Back-End CRON[130284]: pam_unix(cron:session): session closed for user root
+Apr 15 07:17:01 Back-End CRON[130351]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 07:17:01 Back-End CRON[130351]: pam_unix(cron:session): session closed for user root
+Apr 15 07:39:01 Back-End CRON[130355]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 07:39:01 Back-End CRON[130355]: pam_unix(cron:session): session closed for user root
+Apr 15 08:09:01 Back-End CRON[130425]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 08:09:01 Back-End CRON[130425]: pam_unix(cron:session): session closed for user root
+Apr 15 08:17:01 Back-End CRON[130492]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 08:17:01 Back-End CRON[130492]: pam_unix(cron:session): session closed for user root
+Apr 15 08:39:01 Back-End CRON[130496]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 08:39:01 Back-End CRON[130497]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 08:39:01 Back-End CRON[130496]: pam_unix(cron:session): session closed for user root
+Apr 15 08:39:01 Back-End CRON[130497]: pam_unix(cron:session): session closed for user root
+Apr 15 09:09:01 Back-End CRON[130565]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 09:09:01 Back-End CRON[130565]: pam_unix(cron:session): session closed for user root
+Apr 15 09:17:01 Back-End CRON[130632]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 09:17:01 Back-End CRON[130632]: pam_unix(cron:session): session closed for user root
+Apr 15 09:39:01 Back-End CRON[130657]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 09:39:01 Back-End CRON[130657]: pam_unix(cron:session): session closed for user root
+Apr 15 10:09:01 Back-End CRON[130778]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 10:09:01 Back-End CRON[130778]: pam_unix(cron:session): session closed for user root
+Apr 15 10:17:01 Back-End CRON[130842]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 10:17:01 Back-End CRON[130842]: pam_unix(cron:session): session closed for user root
+Apr 15 10:39:01 Back-End CRON[130846]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 10:39:01 Back-End CRON[130846]: pam_unix(cron:session): session closed for user root
+Apr 15 11:09:01 Back-End CRON[130907]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 11:09:01 Back-End CRON[130907]: pam_unix(cron:session): session closed for user root
+Apr 15 11:17:01 Back-End CRON[130975]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 11:17:01 Back-End CRON[130975]: pam_unix(cron:session): session closed for user root
+Apr 15 11:39:01 Back-End CRON[130995]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 11:39:01 Back-End CRON[130995]: pam_unix(cron:session): session closed for user root
+Apr 15 12:00:01 Back-End CRON[131081]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 12:00:01 Back-End CRON[131081]: pam_unix(cron:session): session closed for user root
+Apr 15 12:09:01 Back-End CRON[131084]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 12:09:01 Back-End CRON[131084]: pam_unix(cron:session): session closed for user root
+Apr 15 12:17:01 Back-End CRON[131149]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 12:17:01 Back-End CRON[131149]: pam_unix(cron:session): session closed for user root
+Apr 15 12:39:01 Back-End CRON[131153]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 12:39:01 Back-End CRON[131153]: pam_unix(cron:session): session closed for user root
+Apr 15 13:09:01 Back-End CRON[131222]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 13:09:01 Back-End CRON[131222]: pam_unix(cron:session): session closed for user root
+Apr 15 13:17:01 Back-End CRON[131694]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 13:17:01 Back-End CRON[131694]: pam_unix(cron:session): session closed for user root
+Apr 15 13:39:01 Back-End CRON[131712]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 13:39:01 Back-End CRON[131712]: pam_unix(cron:session): session closed for user root
+Apr 15 14:09:01 Back-End CRON[131778]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 14:09:01 Back-End CRON[131778]: pam_unix(cron:session): session closed for user root
+Apr 15 14:17:01 Back-End CRON[131842]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 14:17:01 Back-End CRON[131842]: pam_unix(cron:session): session closed for user root
+Apr 15 14:39:01 Back-End CRON[131846]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 14:39:01 Back-End CRON[131846]: pam_unix(cron:session): session closed for user root
+Apr 15 15:09:01 Back-End CRON[131940]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 15:09:01 Back-End CRON[131940]: pam_unix(cron:session): session closed for user root
+Apr 15 15:17:01 Back-End CRON[132008]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 15:17:01 Back-End CRON[132008]: pam_unix(cron:session): session closed for user root
+Apr 15 15:39:01 Back-End CRON[132026]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 15:39:01 Back-End CRON[132026]: pam_unix(cron:session): session closed for user root
+Apr 15 16:09:01 Back-End CRON[132088]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 16:09:01 Back-End CRON[132088]: pam_unix(cron:session): session closed for user root
+Apr 15 16:17:01 Back-End CRON[132155]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 16:17:01 Back-End CRON[132155]: pam_unix(cron:session): session closed for user root
+Apr 15 16:39:01 Back-End CRON[132159]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 16:39:01 Back-End CRON[132159]: pam_unix(cron:session): session closed for user root
+Apr 15 17:09:01 Back-End CRON[132224]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 17:09:01 Back-End CRON[132224]: pam_unix(cron:session): session closed for user root
+Apr 15 17:17:01 Back-End CRON[132292]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 17:17:01 Back-End CRON[132292]: pam_unix(cron:session): session closed for user root
+Apr 15 17:39:01 Back-End CRON[132296]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 17:39:01 Back-End CRON[132296]: pam_unix(cron:session): session closed for user root
+Apr 15 18:09:01 Back-End CRON[132363]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 18:09:01 Back-End CRON[132363]: pam_unix(cron:session): session closed for user root
+Apr 15 18:17:01 Back-End CRON[132427]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 18:17:01 Back-End CRON[132427]: pam_unix(cron:session): session closed for user root
+Apr 15 18:39:01 Back-End CRON[132431]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 18:39:01 Back-End CRON[132431]: pam_unix(cron:session): session closed for user root
+Apr 15 19:09:01 Back-End CRON[132500]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 19:09:01 Back-End CRON[132500]: pam_unix(cron:session): session closed for user root
+Apr 15 19:17:01 Back-End CRON[132567]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 19:17:01 Back-End CRON[132567]: pam_unix(cron:session): session closed for user root
+Apr 15 19:39:01 Back-End CRON[132571]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 19:39:01 Back-End CRON[132571]: pam_unix(cron:session): session closed for user root
+Apr 15 20:09:01 Back-End CRON[132653]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 20:09:01 Back-End CRON[132653]: pam_unix(cron:session): session closed for user root
+Apr 15 20:17:01 Back-End CRON[132719]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 20:17:01 Back-End CRON[132719]: pam_unix(cron:session): session closed for user root
+Apr 15 20:39:01 Back-End CRON[132723]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 20:39:01 Back-End CRON[132723]: pam_unix(cron:session): session closed for user root
+Apr 15 21:09:01 Back-End CRON[132792]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 21:09:01 Back-End CRON[132792]: pam_unix(cron:session): session closed for user root
+Apr 15 21:17:01 Back-End CRON[132856]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 21:17:01 Back-End CRON[132856]: pam_unix(cron:session): session closed for user root
+Apr 15 21:39:01 Back-End CRON[132860]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 21:39:01 Back-End CRON[132860]: pam_unix(cron:session): session closed for user root
+Apr 15 22:09:01 Back-End CRON[132997]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 22:09:01 Back-End CRON[132997]: pam_unix(cron:session): session closed for user root
+Apr 15 22:17:01 Back-End CRON[133064]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 22:17:01 Back-End CRON[133064]: pam_unix(cron:session): session closed for user root
+Apr 15 22:39:01 Back-End CRON[133069]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 22:39:01 Back-End CRON[133069]: pam_unix(cron:session): session closed for user root
+Apr 15 23:09:01 Back-End CRON[133136]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 23:09:01 Back-End CRON[133136]: pam_unix(cron:session): session closed for user root
+Apr 15 23:17:01 Back-End CRON[133200]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 23:17:01 Back-End CRON[133200]: pam_unix(cron:session): session closed for user root
+Apr 15 23:39:01 Back-End CRON[133204]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 15 23:39:01 Back-End CRON[133204]: pam_unix(cron:session): session closed for user root
+Apr 16 00:00:01 Back-End CRON[133271]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 00:00:01 Back-End CRON[133271]: pam_unix(cron:session): session closed for user root
+Apr 16 00:09:01 Back-End CRON[133335]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 00:09:01 Back-End CRON[133335]: pam_unix(cron:session): session closed for user root
+Apr 16 00:17:01 Back-End CRON[133403]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 00:17:01 Back-End CRON[133403]: pam_unix(cron:session): session closed for user root
+Apr 16 00:39:01 Back-End CRON[133407]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 00:39:01 Back-End CRON[133407]: pam_unix(cron:session): session closed for user root
+Apr 16 01:09:01 Back-End CRON[133475]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 01:09:01 Back-End CRON[133475]: pam_unix(cron:session): session closed for user root
+Apr 16 01:17:01 Back-End CRON[133540]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 01:17:01 Back-End CRON[133540]: pam_unix(cron:session): session closed for user root
+Apr 16 01:39:01 Back-End CRON[133544]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 01:39:01 Back-End CRON[133544]: pam_unix(cron:session): session closed for user root
+Apr 16 02:09:01 Back-End CRON[133633]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 02:09:01 Back-End CRON[133633]: pam_unix(cron:session): session closed for user root
+Apr 16 02:17:01 Back-End CRON[133697]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 02:17:01 Back-End CRON[133697]: pam_unix(cron:session): session closed for user root
+Apr 16 02:39:01 Back-End CRON[133701]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 02:39:01 Back-End CRON[133701]: pam_unix(cron:session): session closed for user root
+Apr 16 03:09:01 Back-End CRON[133768]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 03:09:01 Back-End CRON[133768]: pam_unix(cron:session): session closed for user root
+Apr 16 03:10:01 Back-End CRON[133835]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 03:10:01 Back-End CRON[133835]: pam_unix(cron:session): session closed for user root
+Apr 16 03:17:01 Back-End CRON[133840]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 03:17:01 Back-End CRON[133840]: pam_unix(cron:session): session closed for user root
+Apr 16 03:39:01 Back-End CRON[133844]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 03:39:01 Back-End CRON[133844]: pam_unix(cron:session): session closed for user root
+Apr 16 03:58:24 Back-End sshd[133918]: Accepted publickey for jt from 184.58.186.40 port 60479 ssh2: RSA SHA256:qpngs5aZXCnIxUj4OhAud9MWul6sSNLF2JX1WLOa4v0
+Apr 16 03:58:24 Back-End sshd[133918]: pam_unix(sshd:session): session opened for user jt by (uid=0)
+Apr 16 03:58:24 Back-End systemd-logind[712]: New session 1796 of user jt.
+Apr 16 03:58:24 Back-End systemd: pam_unix(systemd-user:session): session opened for user jt by (uid=0)
+Apr 16 03:59:37 Back-End sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Apr 16 03:59:47 Back-End sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Apr 16 03:59:47 Back-End sudo:       jt : TTY=pts/0 ; PWD=/home/jt ; USER=root ; COMMAND=/usr/bin/who
+Apr 16 03:59:47 Back-End sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr 16 03:59:47 Back-End sudo: pam_unix(sudo:session): session closed for user root
+Apr 16 03:59:52 Back-End sudo:       jt : TTY=pts/0 ; PWD=/home/jt ; USER=root ; COMMAND=/usr/bin/su
+Apr 16 03:59:52 Back-End sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr 16 03:59:52 Back-End su: (to root) jt on pts/0
+Apr 16 03:59:52 Back-End su: pam_unix(su:session): session opened for user root by (uid=0)
+Apr 16 04:00:04 Back-End su: pam_unix(su:session): session closed for user root
+Apr 16 04:00:04 Back-End sudo: pam_unix(sudo:session): session closed for user root
+Apr 16 04:05:47 Back-End sudo:       jt : TTY=pts/0 ; PWD=/home/jt/IDS-354 ; USER=root ; COMMAND=/usr/bin/apt update node
+Apr 16 04:05:47 Back-End sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr 16 04:05:47 Back-End sudo: pam_unix(sudo:session): session closed for user root
+Apr 16 04:06:56 Back-End sudo:       jt : TTY=pts/0 ; PWD=/home/jt/IDS-354 ; USER=root ; COMMAND=/usr/bin/su
+Apr 16 04:06:56 Back-End sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr 16 04:06:56 Back-End su: (to root) jt on pts/0
+Apr 16 04:06:56 Back-End su: pam_unix(su:session): session opened for user root by (uid=0)
+Apr 16 04:07:59 Back-End su: pam_unix(su:session): session closed for user root
+Apr 16 04:07:59 Back-End sudo: pam_unix(sudo:session): session closed for user root
+Apr 16 04:08:25 Back-End sudo:       jt : TTY=pts/0 ; PWD=/home/jt/IDS-354 ; USER=root ; COMMAND=/usr/bin/apt remove node
+Apr 16 04:08:25 Back-End sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr 16 04:08:26 Back-End sudo: pam_unix(sudo:session): session closed for user root
+Apr 16 04:08:29 Back-End sudo:       jt : TTY=pts/0 ; PWD=/home/jt/IDS-354 ; USER=root ; COMMAND=/usr/bin/apt remove nodejs
+Apr 16 04:08:29 Back-End sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr 16 04:08:51 Back-End sudo: pam_unix(sudo:session): session closed for user root
+Apr 16 04:08:55 Back-End sudo:       jt : TTY=pts/0 ; PWD=/home/jt/IDS-354 ; USER=root ; COMMAND=/usr/bin/apt remove npm
+Apr 16 04:08:55 Back-End sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr 16 04:08:56 Back-End sudo: pam_unix(sudo:session): session closed for user root
+Apr 16 04:09:01 Back-End CRON[136198]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 04:09:01 Back-End CRON[136198]: pam_unix(cron:session): session closed for user root
+Apr 16 04:09:10 Back-End sudo:       jt : TTY=pts/0 ; PWD=/home/jt/IDS-354 ; USER=root ; COMMAND=/usr/bin/apt update
+Apr 16 04:09:10 Back-End sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr 16 04:09:15 Back-End sudo: pam_unix(sudo:session): session closed for user root
+Apr 16 04:09:27 Back-End sudo:       jt : TTY=pts/0 ; PWD=/home/jt/IDS-354 ; USER=root ; COMMAND=/usr/bin/apt install build-essential checkinstall libssl-dev
+Apr 16 04:09:27 Back-End sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr 16 04:09:35 Back-End sudo: pam_unix(sudo:session): session closed for user root
+Apr 16 04:17:01 Back-End CRON[141183]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 04:17:01 Back-End CRON[141183]: pam_unix(cron:session): session closed for user root
+Apr 16 04:27:55 Back-End sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Apr 16 04:28:03 Back-End sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Apr 16 04:29:01 Back-End sudo:       jt : TTY=pts/1 ; PWD=/home/jt/IDS-354 ; USER=root ; COMMAND=/usr/bin/su
+Apr 16 04:29:01 Back-End sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr 16 04:29:01 Back-End su: (to root) jt on pts/1
+Apr 16 04:29:01 Back-End su: pam_unix(su:session): session opened for user root by (uid=0)
+Apr 16 04:30:35 Back-End sudo:     root : TTY=pts/1 ; PWD=/home/jt/IDS-354 ; USER=root ; COMMAND=/usr/bin/apt update
+Apr 16 04:30:35 Back-End sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr 16 04:30:38 Back-End sudo: pam_unix(sudo:session): session closed for user root
+Apr 16 04:30:47 Back-End sudo:     root : TTY=pts/1 ; PWD=/home/jt/IDS-354 ; USER=root ; COMMAND=/usr/bin/apt upgrade
+Apr 16 04:30:47 Back-End sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr 16 04:31:28 Back-End systemd-logind[712]: Watching system buttons on /dev/input/event0 (Power Button)
+Apr 16 04:31:28 Back-End systemd-logind[712]: Watching system buttons on /dev/input/event1 (AT Translated Set 2 keyboard)
+Apr 16 04:32:27 Back-End sudo: pam_unix(sudo:session): session closed for user root
+Apr 16 04:32:44 Back-End su: pam_unix(su:session): session closed for user root
+Apr 16 04:32:44 Back-End sudo: pam_unix(sudo:session): session closed for user root
+Apr 16 04:33:42 Back-End sudo:       jt : TTY=pts/1 ; PWD=/home/jt/IDS-354/src ; USER=root ; COMMAND=/usr/bin/chown root index.ts
+Apr 16 04:33:42 Back-End sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr 16 04:33:42 Back-End sudo: pam_unix(sudo:session): session closed for user root
+Apr 16 04:34:10 Back-End sudo:       jt : TTY=pts/1 ; PWD=/home/jt/IDS-354/src ; USER=root ; COMMAND=/usr/bin/chmod 4755 index.ts
+Apr 16 04:34:10 Back-End sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr 16 04:34:10 Back-End sudo: pam_unix(sudo:session): session closed for user root
+Apr 16 04:36:15 Back-End sudo:       jt : TTY=pts/1 ; PWD=/home/jt/IDS-354/src ; USER=root ; COMMAND=/usr/bin/chown jt index.ts
+Apr 16 04:36:15 Back-End sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr 16 04:36:15 Back-End sudo: pam_unix(sudo:session): session closed for user root
+Apr 16 04:37:49 Back-End sudo:       jt : TTY=pts/1 ; PWD=/home/jt/IDS-354/src ; USER=root ; COMMAND=/usr/bin/su
+Apr 16 04:37:49 Back-End sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr 16 04:37:49 Back-End su: (to root) jt on pts/1
+Apr 16 04:37:49 Back-End su: pam_unix(su:session): session opened for user root by (uid=0)
+Apr 16 04:39:01 Back-End CRON[161583]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 04:39:01 Back-End CRON[161583]: pam_unix(cron:session): session closed for user root
+Apr 16 04:40:19 Back-End su: (to root) jt on pts/1
+Apr 16 04:40:19 Back-End su: pam_unix(su:session): session opened for user root by (uid=0)
+Apr 16 04:40:25 Back-End su: pam_unix(su:session): session closed for user root
+Apr 16 04:40:48 Back-End su: (to root) jt on pts/1
+Apr 16 04:40:48 Back-End su: pam_unix(su:session): session opened for user root by (uid=0)
+Apr 16 04:40:51 Back-End su: pam_unix(su:session): session closed for user root
+Apr 16 04:41:04 Back-End su: (to root) jt on pts/1
+Apr 16 04:41:04 Back-End su: pam_unix(su:session): session opened for user root by (uid=0)
+Apr 16 04:41:14 Back-End su: pam_unix(su:session): session closed for user root
+Apr 16 04:41:25 Back-End su: pam_unix(su:session): session closed for user root
+Apr 16 04:41:25 Back-End sudo: pam_unix(sudo:session): session closed for user root
+Apr 16 04:43:48 Back-End sudo:       jt : TTY=pts/1 ; PWD=/home/jt/IDS-354/dist ; USER=root ; COMMAND=/usr/bin/chown root index.js
+Apr 16 04:43:48 Back-End sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr 16 04:43:48 Back-End sudo: pam_unix(sudo:session): session closed for user root
+Apr 16 04:44:03 Back-End sudo:       jt : TTY=pts/1 ; PWD=/home/jt/IDS-354/dist ; USER=root ; COMMAND=/usr/bin/chmod u+x index.js
+Apr 16 04:44:03 Back-End sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr 16 04:44:03 Back-End sudo: pam_unix(sudo:session): session closed for user root
+Apr 16 04:44:29 Back-End sudo:       jt : TTY=pts/1 ; PWD=/home/jt/IDS-354/dist ; USER=root ; COMMAND=./index.js
+Apr 16 04:44:29 Back-End sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr 16 04:44:41 Back-End sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Apr 16 04:44:57 Back-End sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Apr 16 04:44:57 Back-End sudo:       jt : TTY=pts/2 ; PWD=/home/jt/IDS-354/dist ; USER=root ; COMMAND=/usr/bin/su
+Apr 16 04:44:57 Back-End sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr 16 04:44:57 Back-End su: (to root) jt on pts/2
+Apr 16 04:44:57 Back-End su: pam_unix(su:session): session opened for user root by (uid=0)
+Apr 16 04:45:20 Back-End su: pam_unix(su:session): session closed for user root
+Apr 16 04:45:20 Back-End sudo: pam_unix(sudo:session): session closed for user root
+Apr 16 04:45:27 Back-End sudo: pam_unix(sudo:session): session closed for user root
+Apr 16 04:45:46 Back-End sshd[164198]: Accepted publickey for jt from 184.58.186.40 port 61530 ssh2: RSA SHA256:qpngs5aZXCnIxUj4OhAud9MWul6sSNLF2JX1WLOa4v0
+Apr 16 04:45:46 Back-End sshd[164198]: pam_unix(sshd:session): session opened for user jt by (uid=0)
+Apr 16 04:45:46 Back-End systemd-logind[712]: New session 1801 of user jt.
+Apr 16 04:45:49 Back-End sshd[134041]: Received disconnect from 184.58.186.40 port 60479:11: disconnected by user
+Apr 16 04:45:49 Back-End sshd[134041]: Disconnected from user jt 184.58.186.40 port 60479
+Apr 16 04:45:49 Back-End sshd[133918]: pam_unix(sshd:session): session closed for user jt
+Apr 16 04:45:49 Back-End systemd-logind[712]: Session 1796 logged out. Waiting for processes to exit.
+Apr 16 04:46:26 Back-End sshd[164198]: pam_unix(sshd:session): session closed for user jt
+Apr 16 04:46:26 Back-End systemd-logind[712]: Session 1801 logged out. Waiting for processes to exit.
+Apr 16 04:46:28 Back-End sshd[164473]: Accepted publickey for jt from 184.58.186.40 port 61546 ssh2: RSA SHA256:qpngs5aZXCnIxUj4OhAud9MWul6sSNLF2JX1WLOa4v0
+Apr 16 04:46:28 Back-End sshd[164473]: pam_unix(sshd:session): session opened for user jt by (uid=0)
+Apr 16 04:46:28 Back-End systemd-logind[712]: New session 1802 of user jt.
+Apr 16 04:48:47 Back-End systemd-logind[712]: Removed session 1801.
+Apr 16 05:03:38 Back-End sshd[164473]: pam_unix(sshd:session): session closed for user jt
+Apr 16 05:03:38 Back-End systemd-logind[712]: Session 1802 logged out. Waiting for processes to exit.
+Apr 16 05:04:29 Back-End systemd-logind[712]: Removed session 1802.
+Apr 16 05:09:01 Back-End CRON[168344]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 05:09:01 Back-End CRON[168344]: pam_unix(cron:session): session closed for user root
+Apr 16 05:16:19 Back-End sshd[169619]: Accepted publickey for jt from 184.58.186.40 port 61578 ssh2: RSA SHA256:qpngs5aZXCnIxUj4OhAud9MWul6sSNLF2JX1WLOa4v0
+Apr 16 05:16:19 Back-End sshd[169619]: pam_unix(sshd:session): session opened for user jt by (uid=0)
+Apr 16 05:16:19 Back-End systemd-logind[712]: New session 1804 of user jt.
+Apr 16 05:17:01 Back-End CRON[169895]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 05:17:01 Back-End CRON[169895]: pam_unix(cron:session): session closed for user root
+Apr 16 05:33:36 Back-End sshd[169619]: pam_unix(sshd:session): session closed for user jt
+Apr 16 05:33:36 Back-End systemd-logind[712]: Session 1804 logged out. Waiting for processes to exit.
+Apr 16 05:34:09 Back-End sshd[172850]: Accepted publickey for jt from 184.58.186.40 port 61627 ssh2: RSA SHA256:qpngs5aZXCnIxUj4OhAud9MWul6sSNLF2JX1WLOa4v0
+Apr 16 05:34:09 Back-End sshd[172850]: pam_unix(sshd:session): session opened for user jt by (uid=0)
+Apr 16 05:34:09 Back-End systemd-logind[712]: New session 1806 of user jt.
+Apr 16 05:34:21 Back-End systemd-logind[712]: Removed session 1804.
+Apr 16 05:39:01 Back-End CRON[173847]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 05:39:01 Back-End CRON[173847]: pam_unix(cron:session): session closed for user root
+Apr 16 05:51:29 Back-End sshd[172850]: pam_unix(sshd:session): session closed for user jt
+Apr 16 05:51:29 Back-End systemd-logind[712]: Session 1806 logged out. Waiting for processes to exit.
+Apr 16 05:52:10 Back-End systemd-logind[712]: Removed session 1806.
+Apr 16 06:09:01 Back-End CRON[179151]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 06:09:01 Back-End CRON[179151]: pam_unix(cron:session): session closed for user root
+Apr 16 06:17:01 Back-End CRON[181906]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 06:17:01 Back-End CRON[181906]: pam_unix(cron:session): session closed for user root
+Apr 16 06:25:01 Back-End CRON[183302]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 06:25:01 Back-End CRON[183302]: pam_unix(cron:session): session closed for user root
+Apr 16 06:39:01 Back-End CRON[185819]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 06:39:01 Back-End CRON[185819]: pam_unix(cron:session): session closed for user root
+Apr 16 07:09:01 Back-End CRON[191093]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 07:09:01 Back-End CRON[191093]: pam_unix(cron:session): session closed for user root
+Apr 16 07:17:01 Back-End CRON[192553]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 07:17:01 Back-End CRON[192553]: pam_unix(cron:session): session closed for user root
+Apr 16 07:34:57 Back-End sshd[195659]: Accepted publickey for jt from 184.58.186.40 port 61666 ssh2: RSA SHA256:qpngs5aZXCnIxUj4OhAud9MWul6sSNLF2JX1WLOa4v0
+Apr 16 07:34:57 Back-End sshd[195659]: pam_unix(sshd:session): session opened for user jt by (uid=0)
+Apr 16 07:34:57 Back-End systemd-logind[712]: New session 1814 of user jt.
+Apr 16 07:39:01 Back-End CRON[196527]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 07:39:01 Back-End CRON[196527]: pam_unix(cron:session): session closed for user root
+Apr 16 07:52:13 Back-End sshd[195659]: pam_unix(sshd:session): session closed for user jt
+Apr 16 07:52:13 Back-End systemd-logind[712]: Session 1814 logged out. Waiting for processes to exit.
+Apr 16 07:52:58 Back-End systemd-logind[712]: Removed session 1814.
+Apr 16 08:09:01 Back-End CRON[201824]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 08:09:01 Back-End CRON[201824]: pam_unix(cron:session): session closed for user root
+Apr 16 08:17:01 Back-End CRON[203277]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 08:17:01 Back-End CRON[203277]: pam_unix(cron:session): session closed for user root
+Apr 16 08:39:01 Back-End CRON[207092]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 08:39:01 Back-End CRON[207091]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 08:39:01 Back-End CRON[207091]: pam_unix(cron:session): session closed for user root
+Apr 16 08:39:01 Back-End CRON[207092]: pam_unix(cron:session): session closed for user root
+Apr 16 09:09:01 Back-End CRON[212380]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 09:09:01 Back-End CRON[212380]: pam_unix(cron:session): session closed for user root
+Apr 16 09:17:01 Back-End CRON[213840]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 09:17:01 Back-End CRON[213840]: pam_unix(cron:session): session closed for user root
+Apr 16 09:35:44 Back-End sshd[217090]: Accepted publickey for jt from 184.58.186.40 port 61732 ssh2: RSA SHA256:qpngs5aZXCnIxUj4OhAud9MWul6sSNLF2JX1WLOa4v0
+Apr 16 09:35:44 Back-End sshd[217090]: pam_unix(sshd:session): session opened for user jt by (uid=0)
+Apr 16 09:35:44 Back-End systemd-logind[712]: New session 1822 of user jt.
+Apr 16 09:39:01 Back-End CRON[217816]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 09:39:01 Back-End CRON[217816]: pam_unix(cron:session): session closed for user root
+Apr 16 09:53:25 Back-End sshd[217090]: pam_unix(sshd:session): session closed for user jt
+Apr 16 09:53:26 Back-End systemd-logind[712]: Session 1822 logged out. Waiting for processes to exit.
+Apr 16 09:53:45 Back-End systemd-logind[712]: Removed session 1822.
+Apr 16 10:09:01 Back-End CRON[223525]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 10:09:01 Back-End CRON[223525]: pam_unix(cron:session): session closed for user root
+Apr 16 10:17:01 Back-End CRON[224976]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 10:17:01 Back-End CRON[224976]: pam_unix(cron:session): session closed for user root
+Apr 16 10:30:04 Back-End sshd[227236]: Accepted publickey for jt from 184.58.186.40 port 61783 ssh2: RSA SHA256:qpngs5aZXCnIxUj4OhAud9MWul6sSNLF2JX1WLOa4v0
+Apr 16 10:30:04 Back-End sshd[227236]: pam_unix(sshd:session): session opened for user jt by (uid=0)
+Apr 16 10:30:04 Back-End systemd-logind[712]: New session 1826 of user jt.
+Apr 16 10:39:01 Back-End CRON[228928]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 10:39:01 Back-End CRON[228928]: pam_unix(cron:session): session closed for user root
+Apr 16 11:05:18 Back-End sshd[227324]: Received disconnect from 184.58.186.40 port 61783:11: disconnected by user
+Apr 16 11:05:18 Back-End sshd[227324]: Disconnected from user jt 184.58.186.40 port 61783
+Apr 16 11:05:18 Back-End systemd-logind[712]: Session 1826 logged out. Waiting for processes to exit.
+Apr 16 11:05:18 Back-End sshd[227236]: pam_unix(sshd:session): session closed for user jt
+Apr 16 11:05:20 Back-End sshd[233562]: Accepted publickey for jt from 184.58.186.40 port 62012 ssh2: RSA SHA256:qpngs5aZXCnIxUj4OhAud9MWul6sSNLF2JX1WLOa4v0
+Apr 16 11:05:20 Back-End sshd[233562]: pam_unix(sshd:session): session opened for user jt by (uid=0)
+Apr 16 11:05:20 Back-End systemd-logind[712]: New session 1828 of user jt.
+Apr 16 11:06:06 Back-End systemd-logind[712]: Removed session 1826.
+Apr 16 11:09:01 Back-End CRON[234381]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 11:09:01 Back-End CRON[234381]: pam_unix(cron:session): session closed for user root
+Apr 16 11:17:01 Back-End CRON[235834]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 11:17:01 Back-End CRON[235834]: pam_unix(cron:session): session closed for user root
+Apr 16 11:28:38 Back-End sshd[237858]: Accepted publickey for jt from 184.58.186.40 port 62744 ssh2: RSA SHA256:qpngs5aZXCnIxUj4OhAud9MWul6sSNLF2JX1WLOa4v0
+Apr 16 11:28:38 Back-End sshd[237858]: pam_unix(sshd:session): session opened for user jt by (uid=0)
+Apr 16 11:28:38 Back-End systemd-logind[712]: New session 1831 of user jt.
+Apr 16 11:28:40 Back-End sshd[233666]: Received disconnect from 184.58.186.40 port 62012:11: disconnected by user
+Apr 16 11:28:40 Back-End sshd[233666]: Disconnected from user jt 184.58.186.40 port 62012
+Apr 16 11:28:40 Back-End systemd-logind[712]: Session 1828 logged out. Waiting for processes to exit.
+Apr 16 11:28:40 Back-End sshd[233562]: pam_unix(sshd:session): session closed for user jt
+Apr 16 11:29:21 Back-End systemd-logind[712]: Removed session 1828.
+Apr 16 11:39:01 Back-End CRON[239806]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 11:39:01 Back-End CRON[239806]: pam_unix(cron:session): session closed for user root
+Apr 16 11:45:13 Back-End sshd[237858]: pam_unix(sshd:session): session closed for user jt
+Apr 16 11:45:13 Back-End systemd-logind[712]: Session 1831 logged out. Waiting for processes to exit.
+Apr 16 11:46:38 Back-End systemd-logind[712]: Removed session 1831.
+Apr 16 11:56:58 Back-End sshd[242998]: Accepted publickey for jt from 184.58.186.40 port 62784 ssh2: RSA SHA256:qpngs5aZXCnIxUj4OhAud9MWul6sSNLF2JX1WLOa4v0
+Apr 16 11:56:58 Back-End sshd[242998]: pam_unix(sshd:session): session opened for user jt by (uid=0)
+Apr 16 11:56:58 Back-End systemd-logind[712]: New session 1833 of user jt.
+Apr 16 11:57:13 Back-End sshd[243180]: Accepted publickey for jt from 184.58.186.40 port 62835 ssh2: RSA SHA256:qpngs5aZXCnIxUj4OhAud9MWul6sSNLF2JX1WLOa4v0
+Apr 16 11:57:13 Back-End sshd[243180]: pam_unix(sshd:session): session opened for user jt by (uid=0)
+Apr 16 11:57:13 Back-End systemd-logind[712]: New session 1834 of user jt.
+Apr 16 11:57:15 Back-End sshd[243082]: Received disconnect from 184.58.186.40 port 62784:11: disconnected by user
+Apr 16 11:57:15 Back-End sshd[243082]: Disconnected from user jt 184.58.186.40 port 62784
+Apr 16 11:57:15 Back-End sshd[242998]: pam_unix(sshd:session): session closed for user jt
+Apr 16 11:57:15 Back-End systemd-logind[712]: Session 1833 logged out. Waiting for processes to exit.
+Apr 16 11:59:58 Back-End systemd-logind[712]: Removed session 1833.
+Apr 16 12:00:01 Back-End CRON[243818]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 12:00:01 Back-End CRON[243818]: pam_unix(cron:session): session closed for user root
+Apr 16 12:08:30 Back-End sshd[243259]: Received disconnect from 184.58.186.40 port 62835:11: disconnected by user
+Apr 16 12:08:30 Back-End sshd[243259]: Disconnected from user jt 184.58.186.40 port 62835
+Apr 16 12:08:30 Back-End systemd-logind[712]: Session 1834 logged out. Waiting for processes to exit.
+Apr 16 12:08:30 Back-End sshd[243180]: pam_unix(sshd:session): session closed for user jt
+Apr 16 12:08:32 Back-End sshd[245297]: Accepted publickey for jt from 184.58.186.40 port 62867 ssh2: RSA SHA256:qpngs5aZXCnIxUj4OhAud9MWul6sSNLF2JX1WLOa4v0
+Apr 16 12:08:32 Back-End sshd[245297]: pam_unix(sshd:session): session opened for user jt by (uid=0)
+Apr 16 12:08:32 Back-End systemd-logind[712]: New session 1836 of user jt.
+Apr 16 12:09:01 Back-End CRON[245544]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 12:09:01 Back-End CRON[245544]: pam_unix(cron:session): session closed for user root
+Apr 16 12:09:14 Back-End systemd-logind[712]: Removed session 1834.
+Apr 16 12:17:01 Back-End CRON[247212]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 12:17:01 Back-End CRON[247212]: pam_unix(cron:session): session closed for user root
+Apr 16 12:39:01 Back-End CRON[251404]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 12:39:01 Back-End CRON[251404]: pam_unix(cron:session): session closed for user root
+Apr 16 13:09:01 Back-End CRON[257477]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 13:09:01 Back-End CRON[257477]: pam_unix(cron:session): session closed for user root
+Apr 16 13:17:01 Back-End CRON[258925]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr 16 13:17:01 Back-End CRON[258925]: pam_unix(cron:session): session closed for user root
+Apr 16 13:32:13 Back-End sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Apr 16 13:32:16 Back-End sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Apr 16 13:32:16 Back-End sudo: pam_unix(sudo:auth): authentication failure; logname= uid=1000 euid=0 tty=/dev/pts/1 ruser=jt rhost=  user=jt
+Apr 16 13:32:18 Back-End sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Apr 16 13:32:24 Back-End sudo: pam_unix(sudo:auth): Couldn't open /etc/securetty: No such file or directory
+Apr 16 13:32:24 Back-End sudo:       jt : TTY=pts/1 ; PWD=/home/jt/IDS-354 ; USER=root ; COMMAND=/usr/bin/su
+Apr 16 13:32:24 Back-End sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Apr 16 13:32:24 Back-End su: (to root) jt on pts/1
+Apr 16 13:32:24 Back-End su: pam_unix(su:session): session opened for user root by (uid=0)
+Apr 11 19:06:37 Back-End sshd[109021]: Accepted publickey for jt from 184.58.186.40 port 62814 ssh2: RSA SHA256:qpngs5aZXCnIxUj4OhAud9MWul6sSNLF2JX1WLOa4v0
+Apr 11 19:06:37 Back-End sshd[109021]: Accepted publickey for jt from 184.58.186.40 port 62814 ssh2: RSA SHA256:qpngs5aZXCnIxUj4OhAud9MWul6sSNLF2JX1WLOa4v0
+Apr 11 19:06:37 Back-End sshd[109021]: Accepted publickey for jt from 184.58.186.40 port 62814 ssh2: RSA SHA256:qpngs5aZXCnIxUj4OhAud9MWul6sSNLF2JX1WLOa4v0
+Apr 11 19:06:37 Back-End sshd[109021]: Accepted publickey for jt from 184.58.186.40 port 62814 ssh2: RSA SHA256:qpngs5aZXCnIxUj4OhAud9MWul6sSNLF2JX1WLOa4v0
+Apr 11 19:06:37 Back-End sshd[109021]: Accepted publickey for jt from 184.58.186.40 port 62814 ssh2: RSA SHA256:qpngs5aZXCnIxUj4OhAud9MWul6sSNLF2JX1WLOa4v0
+Apr 11 19:06:37 Back-End sshd[109021]: Accepted publickey for jt from 184.58.186.40 port 62814 ssh2: RSA SHA256:qpngs5aZXCnIxUj4OhAud9MWul6sSNLF2JX1WLOa4v0
