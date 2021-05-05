@@ -21,6 +21,7 @@
   "dependencies": {
     "@logdna/tail-file": "^2.0.6",
     "grok-js": "^3.3.1",
-    "split2": "^3.2.2"
+    "split2": "^3.2.2",
+    "systeminformation": "^5.6.14"
   }
 }

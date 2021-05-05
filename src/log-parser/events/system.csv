@@ -1,0 +1,385 @@
+Back-End,Accepted publickey for jt,184.58.186.40,Apr 11 17:30:03
+Back-End,Received disconnect,184.58.186.40,Apr 11 17:30:22
+Back-End,Disconnected,user,Apr 11 17:30:22
+Back-End,Accepted publickey for jt,184.58.186.40,Apr 11 19:06:37
+Back-End,Received disconnect,184.58.186.40,Apr 11 19:43:17
+Back-End,Disconnected,user,Apr 11 19:43:17
+Back-End,Accepted publickey for jt,35.183.175.95,Apr 13 00:17:51
+Back-End,Accepted publickey for jt,184.58.186.40,Apr 13 00:18:30
+Back-End,Accepted publickey for jt,184.58.186.40,Apr 13 00:20:57
+Back-End,Received disconnect,184.58.186.40,Apr 13 00:22:06
+Back-End,Disconnected,user,Apr 13 00:22:06
+Back-End,Accepted publickey for jt,184.58.186.40,Apr 15 01:23:46
+Back-End,Accepted publickey for jt,184.58.186.40,Apr 15 01:27:46
+Back-End,Received disconnect,184.58.186.40,Apr 15 01:29:52
+Back-End,Disconnected,user,Apr 15 01:29:52
+Back-End,Received disconnect,184.58.186.40,Apr 15 01:29:55
+Back-End,Disconnected,user,Apr 15 01:29:55
+Back-End,Accepted publickey for jt,184.58.186.40,Apr 16 03:58:24
+Back-End,Accepted publickey for jt,184.58.186.40,Apr 16 04:45:46
+Back-End,Received disconnect,184.58.186.40,Apr 16 04:45:49
+Back-End,Disconnected,user,Apr 16 04:45:49
+Back-End,Accepted publickey for jt,184.58.186.40,Apr 16 04:46:28
+Back-End,Accepted publickey for jt,184.58.186.40,Apr 16 05:16:19
+Back-End,Accepted publickey for jt,184.58.186.40,Apr 16 05:34:09
+Back-End,Accepted publickey for jt,184.58.186.40,Apr 16 07:34:57
+Back-End,Accepted publickey for jt,184.58.186.40,Apr 16 09:35:44
+Back-End,Accepted publickey for jt,184.58.186.40,Apr 16 10:30:04
+Back-End,Received disconnect,184.58.186.40,Apr 16 11:05:18
+Back-End,Disconnected,user,Apr 16 11:05:18
+Back-End,Accepted publickey for jt,184.58.186.40,Apr 16 11:05:20
+Back-End,Accepted publickey for jt,184.58.186.40,Apr 16 11:28:38
+Back-End,Received disconnect,184.58.186.40,Apr 16 11:28:40
+Back-End,Disconnected,user,Apr 16 11:28:40
+Back-End,Accepted publickey for jt,184.58.186.40,Apr 16 11:56:58
+Back-End,Accepted publickey for jt,184.58.186.40,Apr 16 11:57:13
+Back-End,Received disconnect,184.58.186.40,Apr 16 11:57:15
+Back-End,Disconnected,user,Apr 16 11:57:15
+Back-End,Received disconnect,184.58.186.40,Apr 16 12:08:30
+Back-End,Disconnected,user,Apr 16 12:08:30
+Back-End,Accepted publickey for jt,184.58.186.40,Apr 16 12:08:32
+Back-End,Accepted publickey for jt,184.58.186.40,Apr 11 19:06:37
+Back-End,Accepted publickey for jt,184.58.186.40,Apr 11 19:06:37
+Back-End,Accepted publickey for jt,184.58.186.40,Apr 11 19:06:37
+Back-End,Accepted publickey for jt,184.58.186.40,Apr 11 19:06:37
+Back-End,Accepted publickey for jt,184.58.186.40,Apr 11 19:06:37
+systemd,logrotate.service: Main process exited, code=exited, status=1/FAILURE,Back-End,Apr 16 00:00:38
+systemd,logrotate.service: Failed with result 'exit-code'.,Back-End,Apr 16 00:00:38
+systemd,Failed to start Rotate log files.,Back-End,Apr 16 00:00:38
+systemd,man-db.service: Succeeded.,Back-End,Apr 16 00:00:38
+systemd,Finished Daily man-db regeneration.,Back-End,Apr 16 00:00:38
+CRON,(root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi),Back-End,Apr 16 00:09:01
+systemd,Starting Clean php session files...,Back-End,Apr 16 00:09:26
+systemd,phpsessionclean.service: Succeeded.,Back-End,Apr 16 00:09:26
+systemd,Finished Clean php session files.,Back-End,Apr 16 00:09:26
+CRON,(root) CMD (   cd / && run-parts --report /etc/cron.hourly),Back-End,Apr 16 00:17:01
+CRON,(root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi),Back-End,Apr 16 00:39:01
+systemd,Starting Clean php session files...,Back-End,Apr 16 00:39:26
+systemd,phpsessionclean.service: Succeeded.,Back-End,Apr 16 00:39:26
+systemd,Finished Clean php session files.,Back-End,Apr 16 00:39:26
+CRON,(root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi),Back-End,Apr 16 01:09:01
+systemd,Starting Clean php session files...,Back-End,Apr 16 01:09:26
+systemd,phpsessionclean.service: Succeeded.,Back-End,Apr 16 01:09:26
+systemd,Finished Clean php session files.,Back-End,Apr 16 01:09:26
+CRON,(root) CMD (   cd / && run-parts --report /etc/cron.hourly),Back-End,Apr 16 01:17:01
+CRON,(root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi),Back-End,Apr 16 01:39:01
+systemd,Starting Refresh fwupd metadata and update motd...,Back-End,Apr 16 01:39:26
+systemd,Starting Clean php session files...,Back-End,Apr 16 01:39:26
+dbus-daemon,[system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.583' (uid=62803 pid=133546 comm="/usr/bin/fwupdmgr refresh --no-metadata-check " label="unconfined"),Back-End,Apr 16 01:39:26
+systemd,Starting Firmware update daemon...,Back-End,Apr 16 01:39:26
+systemd,phpsessionclean.service: Succeeded.,Back-End,Apr 16 01:39:26
+systemd,Finished Clean php session files.,Back-End,Apr 16 01:39:26
+dbus-daemon,[system] Successfully activated service 'org.freedesktop.fwupd',Back-End,Apr 16 01:39:26
+systemd,Started Firmware update daemon.,Back-End,Apr 16 01:39:26
+systemd,fwupd-refresh.service: Succeeded.,Back-End,Apr 16 01:39:27
+systemd,Finished Refresh fwupd metadata and update motd.,Back-End,Apr 16 01:39:27
+CRON,(root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi),Back-End,Apr 16 02:09:01
+systemd,Starting Clean php session files...,Back-End,Apr 16 02:09:26
+systemd,phpsessionclean.service: Succeeded.,Back-End,Apr 16 02:09:26
+systemd,Finished Clean php session files.,Back-End,Apr 16 02:09:26
+CRON,(root) CMD (   cd / && run-parts --report /etc/cron.hourly),Back-End,Apr 16 02:17:01
+CRON,(root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi),Back-End,Apr 16 02:39:01
+systemd,Starting Clean php session files...,Back-End,Apr 16 02:39:26
+systemd,phpsessionclean.service: Succeeded.,Back-End,Apr 16 02:39:26
+systemd,Finished Clean php session files.,Back-End,Apr 16 02:39:26
+CRON,(root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi),Back-End,Apr 16 03:09:01
+systemd,Starting Clean php session files...,Back-End,Apr 16 03:09:26
+systemd,phpsessionclean.service: Succeeded.,Back-End,Apr 16 03:09:26
+systemd,Finished Clean php session files.,Back-End,Apr 16 03:09:26
+CRON,(root) CMD (test -e /run/systemd/system || SERVICE_MODE=1 /sbin/e2scrub_all -A -r),Back-End,Apr 16 03:10:01
+CRON,(root) CMD (   cd / && run-parts --report /etc/cron.hourly),Back-End,Apr 16 03:17:01
+snapd,storehelpers.go:551: cannot refresh: snap has no updates available: "core18", "lxd", "snapd",Back-End,Apr 16 03:34:27
+snapd,autorefresh.go:479: auto-refresh: all snaps are up-to-date,Back-End,Apr 16 03:34:27
+CRON,(root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi),Back-End,Apr 16 03:39:01
+systemd,Starting Clean php session files...,Back-End,Apr 16 03:39:26
+systemd,phpsessionclean.service: Succeeded.,Back-End,Apr 16 03:39:26
+systemd,Finished Clean php session files.,Back-End,Apr 16 03:39:26
+systemd,fwupd.service: Succeeded.,Back-End,Apr 16 03:39:27
+systemd,Created slice User Slice of UID 1000.,Back-End,Apr 16 03:58:24
+systemd,Starting User Runtime Directory /run/user/1000...,Back-End,Apr 16 03:58:24
+systemd,Finished User Runtime Directory /run/user/1000.,Back-End,Apr 16 03:58:24
+systemd,Starting User Manager for UID 1000...,Back-End,Apr 16 03:58:24
+systemd,Reached target Paths.,Back-End,Apr 16 03:58:24
+systemd,Reached target Timers.,Back-End,Apr 16 03:58:24
+systemd,Starting D-Bus User Message Bus Socket.,Back-End,Apr 16 03:58:24
+systemd,Listening on GnuPG network certificate management daemon.,Back-End,Apr 16 03:58:24
+systemd,Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).,Back-End,Apr 16 03:58:24
+systemd,Listening on GnuPG cryptographic agent and passphrase cache (restricted).,Back-End,Apr 16 03:58:24
+systemd,Listening on GnuPG cryptographic agent (ssh-agent emulation).,Back-End,Apr 16 03:58:24
+systemd,Listening on GnuPG cryptographic agent and passphrase cache.,Back-End,Apr 16 03:58:24
+systemd,Listening on debconf communication socket.,Back-End,Apr 16 03:58:24
+systemd,Listening on REST API socket for snapd user session agent.,Back-End,Apr 16 03:58:24
+systemd,Listening on D-Bus User Message Bus Socket.,Back-End,Apr 16 03:58:24
+systemd,Reached target Sockets.,Back-End,Apr 16 03:58:24
+systemd,Reached target Basic System.,Back-End,Apr 16 03:58:24
+systemd,Started User Manager for UID 1000.,Back-End,Apr 16 03:58:24
+systemd,Started Session 1796 of user jt.,Back-End,Apr 16 03:58:24
+systemd,Reached target Main User Target.,Back-End,Apr 16 03:58:24
+systemd,Startup finished in 98ms.,Back-End,Apr 16 03:58:24
+dbus-daemon,[system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.591' (uid=0 pid=136052 comm="/usr/bin/gdbus call --system --dest org.freedeskto" label="unconfined"),Back-End,Apr 16 04:08:48
+systemd,Starting PackageKit Daemon...,Back-End,Apr 16 04:08:48
+dbus-daemon,[system] Successfully activated service 'org.freedesktop.PackageKit',Back-End,Apr 16 04:08:48
+systemd,Started PackageKit Daemon.,Back-End,Apr 16 04:08:48
+CRON,(root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi),Back-End,Apr 16 04:09:01
+systemd,Starting Clean php session files...,Back-End,Apr 16 04:09:26
+systemd,phpsessionclean.service: Succeeded.,Back-End,Apr 16 04:09:26
+systemd,Finished Clean php session files.,Back-End,Apr 16 04:09:26
+systemd,packagekit.service: Succeeded.,Back-End,Apr 16 04:14:38
+CRON,(root) CMD (   cd / && run-parts --report /etc/cron.hourly),Back-End,Apr 16 04:17:01
+dbus-daemon,[system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.599' (uid=0 pid=143562 comm="/usr/bin/gdbus call --system --dest org.freedeskto" label="unconfined"),Back-End,Apr 16 04:29:21
+systemd,Starting PackageKit Daemon...,Back-End,Apr 16 04:29:21
+dbus-daemon,[system] Successfully activated service 'org.freedesktop.PackageKit',Back-End,Apr 16 04:29:21
+systemd,Started PackageKit Daemon.,Back-End,Apr 16 04:29:21
+dbus-daemon,[system] Reloaded configuration,Back-End,Apr 16 04:30:54
+dbus-daemon,message repeated 2 times: [ [system] Reloaded configuration],Back-End,Apr 16 04:30:54
+systemd,Reloading.,Back-End,Apr 16 04:30:54
+systemd,/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.,Back-End,Apr 16 04:30:54
+systemd,Starting Certbot...,Back-End,Apr 16 04:30:54
+dbus-daemon,[system] Reloaded configuration,Back-End,Apr 16 04:30:54
+systemd,certbot.service: Succeeded.,Back-End,Apr 16 04:30:55
+systemd,Finished Certbot.,Back-End,Apr 16 04:30:55
+dbus-daemon,[system] Reloaded configuration,Back-End,Apr 16 04:30:57
+dbus-daemon,message repeated 8 times: [ [system] Reloaded configuration],Back-End,Apr 16 04:30:57
+systemd,Reloading.,Back-End,Apr 16 04:30:59
+systemd,/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.,Back-End,Apr 16 04:30:59
+systemd,Starting Message of the Day...,Back-End,Apr 16 04:30:59
+systemd,Reloading.,Back-End,Apr 16 04:30:59
+systemd,/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.,Back-End,Apr 16 04:30:59
+systemd,motd-news.service: Succeeded.,Back-End,Apr 16 04:30:59
+systemd,Finished Message of the Day.,Back-End,Apr 16 04:30:59
+systemd,Reloading.,Back-End,Apr 16 04:31:00
+systemd,/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.,Back-End,Apr 16 04:31:00
+systemd,apt-daily-upgrade.timer: Succeeded.,Back-End,Apr 16 04:31:01
+systemd,Stopped Daily apt upgrade and clean activities.,Back-End,Apr 16 04:31:01
+systemd,Stopping Daily apt upgrade and clean activities.,Back-End,Apr 16 04:31:01
+systemd,Started Daily apt upgrade and clean activities.,Back-End,Apr 16 04:31:01
+systemd,apt-daily.timer: Succeeded.,Back-End,Apr 16 04:31:01
+systemd,Stopped Daily apt download activities.,Back-End,Apr 16 04:31:01
+systemd,Stopping Daily apt download activities.,Back-End,Apr 16 04:31:01
+systemd,Started Daily apt download activities.,Back-End,Apr 16 04:31:01
+systemd,Reloading.,Back-End,Apr 16 04:31:20
+systemd,/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.,Back-End,Apr 16 04:31:20
+systemd,Reloading.,Back-End,Apr 16 04:31:21
+systemd,/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.,Back-End,Apr 16 04:31:21
+systemd,Reloading.,Back-End,Apr 16 04:31:21
+systemd,/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.,Back-End,Apr 16 04:31:21
+systemd,Reloading.,Back-End,Apr 16 04:31:24
+systemd,/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.,Back-End,Apr 16 04:31:24
+systemd,Reloading.,Back-End,Apr 16 04:31:24
+systemd,/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.,Back-End,Apr 16 04:31:24
+systemd,Stopping udev Kernel Device Manager...,Back-End,Apr 16 04:31:25
+systemd,systemd-udevd.service: Succeeded.,Back-End,Apr 16 04:31:25
+systemd,Stopped udev Kernel Device Manager.,Back-End,Apr 16 04:31:25
+systemd,Starting udev Kernel Device Manager...,Back-End,Apr 16 04:31:25
+systemd,Started udev Kernel Device Manager.,Back-End,Apr 16 04:31:25
+systemd,Reloading.,Back-End,Apr 16 04:31:25
+systemd,/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.,Back-End,Apr 16 04:31:25
+systemd,Reloading.,Back-End,Apr 16 04:31:28
+systemd-udevd,Using default interface naming scheme 'v245'.,Back-End,Apr 16 04:31:28
+systemd-udevd,Using default interface naming scheme 'v245'.,Back-End,Apr 16 04:31:28
+systemd,/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.,Back-End,Apr 16 04:31:28
+systemd,Reloading.,Back-End,Apr 16 04:31:28
+systemd,/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.,Back-End,Apr 16 04:31:28
+systemd,Reloading.,Back-End,Apr 16 04:31:29
+systemd,/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.,Back-End,Apr 16 04:31:29
+systemd,Condition check resulted in Authentication service for virtual machines hosted on VMware being skipped.,Back-End,Apr 16 04:31:29
+systemd,Condition check resulted in Service for virtual machines hosted on VMware being skipped.,Back-End,Apr 16 04:31:29
+systemd,Reloading.,Back-End,Apr 16 04:31:29
+systemd,/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.,Back-End,Apr 16 04:31:29
+systemd,Condition check resulted in Authentication service for virtual machines hosted on VMware being skipped.,Back-End,Apr 16 04:31:30
+systemd,Reloading.,Back-End,Apr 16 04:31:30
+systemd,/lib/systemd/system/dbus.socket:5: ListenStream= references a path below legacy directory /var/run/, updating /var/run/dbus/system_bus_socket → /run/dbus/system_bus_socket; please update the unit file accordingly.,Back-End,Apr 16 04:31:30
+systemd,Reexecuting.,Back-End,Apr 16 04:31:32
+systemd,Condition check resulted in OpenVSwitch configuration for cleanup being skipped.,Back-End,Apr 16 04:31:32
+systemd,systemd-networkd-wait-online.service: Succeeded.,Back-End,Apr 16 04:31:32
+systemd,Stopped Wait for Network to be Configured.,Back-End,Apr 16 04:31:32
+systemd,Stopping Wait for Network to be Configured...,Back-End,Apr 16 04:31:32
+systemd,Stopping Network Service...,Back-End,Apr 16 04:31:32
+systemd,systemd-networkd.service: Succeeded.,Back-End,Apr 16 04:31:32
+systemd,Stopped Network Service.,Back-End,Apr 16 04:31:32
+systemd,Starting Network Service...,Back-End,Apr 16 04:31:32
+systemd-networkd,eth1: Gained IPv6LL,Back-End,Apr 16 04:31:33
+systemd-networkd,eth0: Gained IPv6LL,Back-End,Apr 16 04:31:33
+systemd-networkd,Enumeration completed,Back-End,Apr 16 04:31:33
+systemd,Started Network Service.,Back-End,Apr 16 04:31:33
+systemd-networkd,eth1: IPv6 successfully enabled,Back-End,Apr 16 04:31:33
+systemd,Starting Wait for Network to be Configured...,Back-End,Apr 16 04:31:33
+systemd,Stopping Network Name Resolution...,Back-End,Apr 16 04:31:33
+systemd-networkd,eth0: IPv6 successfully enabled,Back-End,Apr 16 04:31:33
+systemd,systemd-resolved.service: Succeeded.,Back-End,Apr 16 04:31:33
+systemd,Stopped Network Name Resolution.,Back-End,Apr 16 04:31:33
+systemd,Starting Network Name Resolution...,Back-End,Apr 16 04:31:33
+systemd-networkd-wait-online,managing: eth0,Back-End,Apr 16 04:31:33
+systemd-networkd-wait-online,managing: eth1,Back-End,Apr 16 04:31:33
+systemd,Finished Wait for Network to be Configured.,Back-End,Apr 16 04:31:33
+systemd-resolved,Positive Trust Anchors:,Back-End,Apr 16 04:31:33
+systemd-resolved,. IN DS 20326 8 2 e06d44b80b8f1d39a95c0b0d7c65d08458e880409bbc683457104237c7f8ec8d,Back-End,Apr 16 04:31:33
+systemd-resolved,Negative trust anchors: 10.in-addr.arpa 16.172.in-addr.arpa 17.172.in-addr.arpa 18.172.in-addr.arpa 19.172.in-addr.arpa 20.172.in-addr.arpa 21.172.in-addr.arpa 22.172.in-addr.arpa 23.172.in-addr.arpa 24.172.in-addr.arpa 25.172.in-addr.arpa 26.172.in-addr.arpa 27.172.in-addr.arpa 28.172.in-addr.arpa 29.172.in-addr.arpa 30.172.in-addr.arpa 31.172.in-addr.arpa 168.192.in-addr.arpa d.f.ip6.arpa corp home internal intranet lan local private test,Back-End,Apr 16 04:31:33
+systemd-resolved,Failed to add DNS server address '67.207.67.2,67.207.67.3', ignoring: Invalid argument,Back-End,Apr 16 04:31:33
+systemd-resolved,Using system hostname 'Back-End'.,Back-End,Apr 16 04:31:33
+systemd,Started Network Name Resolution.,Back-End,Apr 16 04:31:33
+systemd,Stopping Flush Journal to Persistent Storage...,Back-End,Apr 16 04:31:33
+systemd,systemd-journal-flush.service: Succeeded.,Back-End,Apr 16 04:31:33
+systemd,Stopped Flush Journal to Persistent Storage.,Back-End,Apr 16 04:31:33
+systemd,Starting Flush Journal to Persistent Storage...,Back-End,Apr 16 04:31:33
+systemd,Finished Flush Journal to Persistent Storage.,Back-End,Apr 16 04:31:33
+systemd,Reloading.,Back-End,Apr 16 04:31:33
+systemd,Stopping Network Time Synchronization...,Back-End,Apr 16 04:31:34
+systemd,systemd-timesyncd.service: Succeeded.,Back-End,Apr 16 04:31:34
+systemd,Stopped Network Time Synchronization.,Back-End,Apr 16 04:31:34
+systemd,Starting Network Time Synchronization...,Back-End,Apr 16 04:31:34
+systemd,Started Network Time Synchronization.,Back-End,Apr 16 04:31:34
+systemd-timesyncd,Initial synchronization to time server 91.189.94.4:123 (ntp.ubuntu.com).,Back-End,Apr 16 04:31:34
+systemd,Reloading.,Back-End,Apr 16 04:31:34
+systemd,Stopping System Logging Service...,Back-End,Apr 16 04:31:35
+systemd,rsyslog.service: Succeeded.,Back-End,Apr 16 04:31:35
+systemd,Stopped System Logging Service.,Back-End,Apr 16 04:31:35
+systemd,Starting System Logging Service...,Back-End,Apr 16 04:31:35
+systemd,Started System Logging Service.,Back-End,Apr 16 04:31:35
+dbus-daemon,[system] Reloaded configuration,Back-End,Apr 16 04:31:44
+systemd,packagekit.service: Succeeded.,Back-End,Apr 16 04:37:26
+dbus-daemon,[system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.614' (uid=0 pid=161392 comm="/usr/bin/gdbus call --system --dest org.freedeskto" label="unconfined"),Back-End,Apr 16 04:38:23
+systemd,Starting PackageKit Daemon...,Back-End,Apr 16 04:38:23
+dbus-daemon,[system] Successfully activated service 'org.freedesktop.PackageKit',Back-End,Apr 16 04:38:23
+systemd,Started PackageKit Daemon.,Back-End,Apr 16 04:38:23
+CRON,(root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi),Back-End,Apr 16 04:39:01
+systemd,Starting Clean php session files...,Back-End,Apr 16 04:39:26
+systemd,phpsessionclean.service: Succeeded.,Back-End,Apr 16 04:39:26
+systemd,Finished Clean php session files.,Back-End,Apr 16 04:39:26
+systemd,Started Session 1801 of user jt.,Back-End,Apr 16 04:45:46
+systemd,packagekit.service: Succeeded.,Back-End,Apr 16 04:46:18
+systemd,Started Session 1802 of user jt.,Back-End,Apr 16 04:46:28
+systemd,session-1801.scope: Succeeded.,Back-End,Apr 16 04:48:47
+systemd,session-1802.scope: Succeeded.,Back-End,Apr 16 05:04:29
+CRON,(root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi),Back-End,Apr 16 05:09:01
+systemd,Starting Clean php session files...,Back-End,Apr 16 05:09:26
+systemd,phpsessionclean.service: Succeeded.,Back-End,Apr 16 05:09:26
+systemd,Finished Clean php session files.,Back-End,Apr 16 05:09:26
+systemd,Started Session 1804 of user jt.,Back-End,Apr 16 05:16:19
+CRON,(root) CMD (   cd / && run-parts --report /etc/cron.hourly),Back-End,Apr 16 05:17:01
+systemd,Started Session 1806 of user jt.,Back-End,Apr 16 05:34:09
+systemd,session-1804.scope: Succeeded.,Back-End,Apr 16 05:34:21
+CRON,(root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi),Back-End,Apr 16 05:39:01
+systemd,Starting Clean php session files...,Back-End,Apr 16 05:39:26
+systemd,phpsessionclean.service: Succeeded.,Back-End,Apr 16 05:39:26
+systemd,Finished Clean php session files.,Back-End,Apr 16 05:39:26
+systemd,session-1806.scope: Succeeded.,Back-End,Apr 16 05:52:10
+CRON,(root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi),Back-End,Apr 16 06:09:01
+systemd,Starting Clean php session files...,Back-End,Apr 16 06:09:26
+systemd,phpsessionclean.service: Succeeded.,Back-End,Apr 16 06:09:26
+systemd,Finished Clean php session files.,Back-End,Apr 16 06:09:26
+systemd,Starting Daily apt upgrade and clean activities...,Back-End,Apr 16 06:11:33
+dbus-daemon,[system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.637' (uid=0 pid=179779 comm="/usr/bin/gdbus call --system --dest org.freedeskto" label="unconfined"),Back-End,Apr 16 06:11:37
+systemd,Starting PackageKit Daemon...,Back-End,Apr 16 06:11:37
+dbus-daemon,[system] Successfully activated service 'org.freedesktop.PackageKit',Back-End,Apr 16 06:11:37
+systemd,Started PackageKit Daemon.,Back-End,Apr 16 06:11:37
+systemd,apt-daily-upgrade.service: Succeeded.,Back-End,Apr 16 06:11:52
+systemd,Finished Daily apt upgrade and clean activities.,Back-End,Apr 16 06:11:52
+systemd,packagekit.service: Succeeded.,Back-End,Apr 16 06:16:52
+CRON,(root) CMD (   cd / && run-parts --report /etc/cron.hourly),Back-End,Apr 16 06:17:01
+CRON,(root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily )),Back-End,Apr 16 06:25:01
+CRON,(root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi),Back-End,Apr 16 06:39:01
+systemd,Starting Clean php session files...,Back-End,Apr 16 06:39:26
+systemd,phpsessionclean.service: Succeeded.,Back-End,Apr 16 06:39:26
+systemd,Finished Clean php session files.,Back-End,Apr 16 06:39:26
+snapd,storehelpers.go:551: cannot refresh: snap has no updates available: "core18", "lxd", "snapd",Back-End,Apr 16 06:49:27
+snapd,autorefresh.go:479: auto-refresh: all snaps are up-to-date,Back-End,Apr 16 06:49:27
+CRON,(root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi),Back-End,Apr 16 07:09:01
+systemd,Starting Clean php session files...,Back-End,Apr 16 07:09:26
+systemd,phpsessionclean.service: Succeeded.,Back-End,Apr 16 07:09:26
+systemd,Finished Clean php session files.,Back-End,Apr 16 07:09:26
+CRON,(root) CMD (   cd / && run-parts --report /etc/cron.hourly),Back-End,Apr 16 07:17:01
+systemd,Started Session 1814 of user jt.,Back-End,Apr 16 07:34:57
+CRON,(root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi),Back-End,Apr 16 07:39:01
+systemd,Starting Clean php session files...,Back-End,Apr 16 07:39:26
+systemd,phpsessionclean.service: Succeeded.,Back-End,Apr 16 07:39:26
+systemd,Finished Clean php session files.,Back-End,Apr 16 07:39:26
+systemd,session-1814.scope: Succeeded.,Back-End,Apr 16 07:52:58
+CRON,(root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi),Back-End,Apr 16 08:09:01
+systemd,Starting Clean php session files...,Back-End,Apr 16 08:09:26
+systemd,phpsessionclean.service: Succeeded.,Back-End,Apr 16 08:09:26
+systemd,Finished Clean php session files.,Back-End,Apr 16 08:09:26
+CRON,(root) CMD (   cd / && run-parts --report /etc/cron.hourly),Back-End,Apr 16 08:17:01
+CRON,(root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi),Back-End,Apr 16 08:39:01
+CRON,(root) CMD (   test -x /etc/cron.daily/popularity-contest && /etc/cron.daily/popularity-contest --crond),Back-End,Apr 16 08:39:01
+systemd,Starting Clean php session files...,Back-End,Apr 16 08:39:24
+systemd,phpsessionclean.service: Succeeded.,Back-End,Apr 16 08:39:24
+systemd,Finished Clean php session files.,Back-End,Apr 16 08:39:24
+CRON,(root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi),Back-End,Apr 16 09:09:01
+systemd,Starting Clean php session files...,Back-End,Apr 16 09:09:26
+systemd,phpsessionclean.service: Succeeded.,Back-End,Apr 16 09:09:26
+systemd,Finished Clean php session files.,Back-End,Apr 16 09:09:26
+CRON,(root) CMD (   cd / && run-parts --report /etc/cron.hourly),Back-End,Apr 16 09:17:01
+systemd,Started Session 1822 of user jt.,Back-End,Apr 16 09:35:44
+CRON,(root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi),Back-End,Apr 16 09:39:01
+systemd,Starting Clean php session files...,Back-End,Apr 16 09:39:26
+systemd,phpsessionclean.service: Succeeded.,Back-End,Apr 16 09:39:26
+systemd,Finished Clean php session files.,Back-End,Apr 16 09:39:26
+systemd,Starting Daily apt download activities...,Back-End,Apr 16 09:48:33
+dbus-daemon,[system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.653' (uid=0 pid=219878 comm="/usr/bin/gdbus call --system --dest org.freedeskto" label="unconfined"),Back-End,Apr 16 09:48:35
+systemd,Starting PackageKit Daemon...,Back-End,Apr 16 09:48:35
+dbus-daemon,[system] Successfully activated service 'org.freedesktop.PackageKit',Back-End,Apr 16 09:48:35
+systemd,Started PackageKit Daemon.,Back-End,Apr 16 09:48:35
+systemd,apt-daily.service: Succeeded.,Back-End,Apr 16 09:48:40
+systemd,Finished Daily apt download activities.,Back-End,Apr 16 09:48:40
+systemd,packagekit.service: Succeeded.,Back-End,Apr 16 09:53:40
+systemd,session-1822.scope: Succeeded.,Back-End,Apr 16 09:53:45
+CRON,(root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi),Back-End,Apr 16 10:09:01
+systemd,Starting Clean php session files...,Back-End,Apr 16 10:09:26
+systemd,phpsessionclean.service: Succeeded.,Back-End,Apr 16 10:09:26
+systemd,Finished Clean php session files.,Back-End,Apr 16 10:09:26
+CRON,(root) CMD (   cd / && run-parts --report /etc/cron.hourly),Back-End,Apr 16 10:17:01
+systemd,Started Session 1826 of user jt.,Back-End,Apr 16 10:30:04
+CRON,(root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi),Back-End,Apr 16 10:39:01
+systemd,Starting Clean php session files...,Back-End,Apr 16 10:39:24
+systemd,phpsessionclean.service: Succeeded.,Back-End,Apr 16 10:39:24
+systemd,Finished Clean php session files.,Back-End,Apr 16 10:39:24
+systemd,Started Session 1828 of user jt.,Back-End,Apr 16 11:05:20
+systemd,session-1826.scope: Succeeded.,Back-End,Apr 16 11:06:06
+CRON,(root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi),Back-End,Apr 16 11:09:01
+systemd,Starting Clean php session files...,Back-End,Apr 16 11:09:26
+systemd,phpsessionclean.service: Succeeded.,Back-End,Apr 16 11:09:26
+systemd,Finished Clean php session files.,Back-End,Apr 16 11:09:26
+CRON,(root) CMD (   cd / && run-parts --report /etc/cron.hourly),Back-End,Apr 16 11:17:01
+systemd,Started Session 1831 of user jt.,Back-End,Apr 16 11:28:38
+systemd,session-1828.scope: Succeeded.,Back-End,Apr 16 11:29:21
+CRON,(root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi),Back-End,Apr 16 11:39:01
+systemd,Starting Clean php session files...,Back-End,Apr 16 11:39:15
+systemd,phpsessionclean.service: Succeeded.,Back-End,Apr 16 11:39:15
+systemd,Finished Clean php session files.,Back-End,Apr 16 11:39:15
+systemd,session-1831.scope: Succeeded.,Back-End,Apr 16 11:46:38
+systemd,Started Session 1833 of user jt.,Back-End,Apr 16 11:56:58
+systemd,Started Session 1834 of user jt.,Back-End,Apr 16 11:57:13
+systemd,session-1833.scope: Succeeded.,Back-End,Apr 16 11:59:58
+CRON,(root) CMD (test -x /usr/bin/certbot -a \! -d /run/systemd/system && perl -e 'sleep int(rand(43200))' && certbot -q renew),Back-End,Apr 16 12:00:01
+systemd,Started Session 1836 of user jt.,Back-End,Apr 16 12:08:32
+CRON,(root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi),Back-End,Apr 16 12:09:01
+systemd,session-1834.scope: Succeeded.,Back-End,Apr 16 12:09:14
+systemd,Starting Clean php session files...,Back-End,Apr 16 12:09:14
+systemd,phpsessionclean.service: Succeeded.,Back-End,Apr 16 12:09:14
+systemd,Finished Clean php session files.,Back-End,Apr 16 12:09:14
+CRON,(root) CMD (   cd / && run-parts --report /etc/cron.hourly),Back-End,Apr 16 12:17:01
+CRON,(root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi),Back-End,Apr 16 12:39:01
+systemd,Starting Clean php session files...,Back-End,Apr 16 12:39:14
+systemd,phpsessionclean.service: Succeeded.,Back-End,Apr 16 12:39:14
+systemd,Finished Clean php session files.,Back-End,Apr 16 12:39:14
+systemd,Starting Refresh fwupd metadata and update motd...,Back-End,Apr 16 13:03:33
+dbus-daemon,[system] Activating via systemd: service name='org.freedesktop.fwupd' unit='fwupd.service' requested by ':1.669' (uid=62803 pid=256488 comm="/usr/bin/fwupdmgr refresh --no-metadata-check " label="unconfined"),Back-End,Apr 16 13:03:33
+systemd,Starting Firmware update daemon...,Back-End,Apr 16 13:03:33
+dbus-daemon,[system] Successfully activated service 'org.freedesktop.fwupd',Back-End,Apr 16 13:03:33
+systemd,Started Firmware update daemon.,Back-End,Apr 16 13:03:33
+fwupdmgr,Fetching metadata https://cdn.fwupd.org/downloads/firmware.xml.gz,Back-End,Apr 16 13:03:33
+fwupdmgr,Fetching signature https://cdn.fwupd.org/downloads/firmware.xml.gz.asc,Back-End,Apr 16 13:03:33
+fwupdmgr,Successfully downloaded new metadata: 0 local devices supported,Back-End,Apr 16 13:03:34
+systemd,fwupd-refresh.service: Succeeded.,Back-End,Apr 16 13:03:34
+systemd,Finished Refresh fwupd metadata and update motd.,Back-End,Apr 16 13:03:34
+CRON,(root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi),Back-End,Apr 16 13:09:01
+systemd,Starting Clean php session files...,Back-End,Apr 16 13:09:26
+systemd,phpsessionclean.service: Succeeded.,Back-End,Apr 16 13:09:26
+systemd,Finished Clean php session files.,Back-End,Apr 16 13:09:26
+CRON,(root) CMD (   cd / && run-parts --report /etc/cron.hourly),Back-End,Apr 16 13:17:01
+CRON,(root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi),Back-End,Apr 16 13:39:01
+systemd,Starting Clean php session files...,Back-End,Apr 16 13:39:24
+systemd,phpsessionclean.service: Succeeded.,Back-End,Apr 16 13:39:24
+systemd,Finished Clean php session files.,Back-End,Apr 16 13:39:24
+systemd,Started User Manager for UID 1000.,Back-End,Apr 16 03:58:24

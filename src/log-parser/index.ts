@@ -14,4 +14,5 @@ logConfigs.forEach((config)=>{
 function writeToCSV({type, event}){
     let writer = type === "system" ? systemEvents : applicationEvents;
     writer.write(`${event.subject},${event.action},${event.object},${event.timestamp}\n`);
+    writer.close();
 }
