@@ -19,19 +19,18 @@ function collectSystemInfo(){
 }
 
 function alert(values : [number, number, number], timestamp: string, err : NodeJS.ErrnoException){
-    if(err) console.error(err)
     cpuQueue.enqueue(values[0]);
     memoryQueue.enqueue(values[1]);
     processQueue.enqueue(values[2]);
     if(!(cpuQueue.isFull() && memoryQueue.isFull() && processQueue.isFull())) return;
     if(cpuQueue.getDeviation()>=33){
-        fs.appendFile('./output/alerts.csv', `ALERT: CPU Utilization Deviation Above Threshold\n`, (err)=> console.error(err));
+        fs.appendFile('./output/alerts.csv', `Resource Monitor Alert: CPU Utilization Deviation Above Threshold @ ${timestamp}\n`, (err)=> {});
     }
     if(memoryQueue.getDeviation()>=33){
-        fs.appendFile('./output/alerts.csv', `ALERT: Used Memory Deviation Above Threshold\n`, (err)=> console.error(err));
+        fs.appendFile('./output/alerts.csv', `Resource Monitor Alert: Used Memory Deviation Above Threshold @ ${timestamp}\n`, (err)=> {});
     }
     if(processQueue.getDeviation()>=33){
-        fs.appendFile('./output/alerts.csv', `ALERT: Active Processes Deviation Above Threshold\n`, (err)=> console.error(err));
+        fs.appendFile('./output/alerts.csv', `Resource Monitor Alert: Active Processes Deviation Above Threshold @ ${timestamp}\n`, (err)=> {});
     }
 }
 

@@ -6,6 +6,7 @@ import fs from 'fs';
 import { PathLike } from 'node:fs';
 import { QueryOptions } from 'mariadb';
 import path from 'path';
+import ipc from 'node-ipc';
 
 const program = new Command();
 const IDS_DB = new db({
@@ -20,9 +21,14 @@ program.version('0.0.1');
 program
     .option('-m, --monitor <files...>', 'Add file to file integrity monitor.')
     .option('-r, --remove <files...>', 'Remove file from integrity monitor.')
-    .option('-l --list', 'List monitored files.')
+    .option('-l, --list', 'List monitored files.')
+    .option('-s, --start', 'Start monitoring files.')
+    .option('-p, --pause', 'Pause monitoring files')
     .parse();
 
+ipc.config.id = 'File-Integrity-Client';
+ipc.config.retry = 1500;
+ipc.config.silent = true;
 let options = program.opts();
 
 if(options.remove){
@@ -41,6 +47,24 @@ if(options.list){
     getMonitoredFiles().then((files)=>{
         files.forEach(({file}) => {
             console.log(file);
+        });
+    });
+}
+
+if(options.start){
+    ipc.connectTo('File-Integrity-Monitor',()=>{
+        ipc.of['File-Integrity-Monitor'].on('connect', ()=>{
+            ipc.of["File-Integrity-Monitor"].emit("start");
+            ipc.disconnect("File-Integrity-Monitor");
+        });
+    });
+}
+
+if(options.pause){
+    ipc.connectTo('File-Integrity-Monitor',()=>{
+        ipc.of['File-Integrity-Monitor'].on('connect', ()=>{
+            ipc.of["File-Integrity-Monitor"].emit("pause");
+            ipc.disconnect("File-Integrity-Monitor");
         });
     });
 }

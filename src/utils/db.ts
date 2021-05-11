@@ -1,5 +1,4 @@
 import mariadb, { ConnectionConfig, QueryOptions, Connection } from 'mariadb';
-import { deepStrictEqual } from 'node:assert';
 
 export default class db {
     config : ConnectionConfig;
